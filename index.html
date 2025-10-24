@@ -1,0 +1,595 @@
+<!DOCTYPE html>
+<html lang="en">
+<head>
+    <meta charset="UTF-8">
+    <meta name="viewport" content="width=device-width, initial-scale=1.0">
+    <title>Querying and Visualizing Financial Data: A Teaching Case Applying STEM Skills</title>
+    <link rel="stylesheet" href="styles.css">
+    <link href="https://fonts.googleapis.com/css2?family=Inter:wght@300;400;500;600;700&display=swap" rel="stylesheet">
+    <link href="https://cdnjs.cloudflare.com/ajax/libs/font-awesome/6.0.0/css/all.min.css" rel="stylesheet">
+</head>
+<body>
+    <header class="header">
+        <nav class="navbar">
+            <div class="nav-container">
+                <div class="nav-logo">
+                    <i class="fas fa-chart-line"></i>
+                    <span>Data Analytics in Accounting</span>
+                </div>
+                <ul class="nav-menu">
+                    <li><a href="#abstract">Abstract</a></li>
+                    <li><a href="#case-study">Case Study</a></li>
+                    <li><a href="#methodology">Methodology</a></li>
+                    <li><a href="#visualizations">Visualizations</a></li>
+                    <li><a href="#results">Results</a></li>
+                    <li><a href="#conclusion">Conclusion</a></li>
+                </ul>
+            </div>
+        </nav>
+    </header>
+
+    <main class="main-content">
+        <!-- Hero Section -->
+        <section class="hero">
+            <div class="hero-container">
+                <h1 class="hero-title">Querying and Visualizing Financial Data</h1>
+                <p class="hero-subtitle">A Teaching Case Applying STEM Skills in Accounting Education</p>
+                <div class="hero-authors">
+                    <p><strong>Authors:</strong> Yuxin Shan & Vernon J. Richardson</p>
+                    <p><strong>Journal:</strong> Journal of Accounting Education 72 (2025)</p>
+                </div>
+                <div class="hero-keywords">
+                    <span class="keyword">Data Analytics</span>
+                    <span class="keyword">SQL</span>
+                    <span class="keyword">Tableau</span>
+                    <span class="keyword">Data Visualization</span>
+                    <span class="keyword">STEM Education</span>
+                </div>
+            </div>
+        </section>
+
+        <!-- Abstract Section -->
+        <section id="abstract" class="section">
+            <div class="container">
+                <h2 class="section-title">Abstract</h2>
+                <div class="abstract-content">
+                    <p class="lead">Advanced technologies have dramatically changed the ways that accounting professionals collect, analyze and interpret data. Embracing the prevalent implementation of advanced technologies, accounting is moving towards a STEM discipline and requesting accounting students be equipped with emerging technologies.</p>
+                    
+                    <div class="key-points">
+                        <h3>Key Points:</h3>
+                        <ul>
+                            <li><i class="fas fa-check-circle"></i> Response to increasing AACSB and CPA exam requirements on data analytics skills</li>
+                            <li><i class="fas fa-check-circle"></i> Complete data analytics process using SQL and Tableau</li>
+                            <li><i class="fas fa-check-circle"></i> Real-world data analysis with Dillard's department store data</li>
+                            <li><i class="fas fa-check-circle"></i> Interactive dashboards and narrative stories for communication</li>
+                            <li><i class="fas fa-check-circle"></i> Building data analytics mindset for accounting students</li>
+                        </ul>
+                    </div>
+                </div>
+            </div>
+        </section>
+
+        <!-- Case Study Section -->
+        <section id="case-study" class="section bg-light">
+            <div class="container">
+                <h2 class="section-title">The Case Study</h2>
+                <div class="case-content">
+                    <div class="case-intro">
+                        <h3>Dillard's Department Store Analysis</h3>
+                        <p>Dillard's, Inc. is a high-end department store chain based in Little Rock, Arkansas, operating approximately 282 stores across 29 states. The case involves analyzing the cosmetic department's performance using real transactional data.</p>
+                    </div>
+
+                    <div class="case-objectives">
+                        <h3>Analysis Objectives</h3>
+                        <div class="objectives-grid">
+                            <div class="objective-card">
+                                <i class="fas fa-chart-bar"></i>
+                                <h4>Total Sales Analysis</h4>
+                                <p>Analyze sales performance across different states and time periods</p>
+                            </div>
+                            <div class="objective-card">
+                                <i class="fas fa-percentage"></i>
+                                <h4>Discount Rate Analysis</h4>
+                                <p>Evaluate discount strategies and their impact on profitability</p>
+                            </div>
+                            <div class="objective-card">
+                                <i class="fas fa-trending-up"></i>
+                                <h4>Profit Margin Analysis</h4>
+                                <p>Assess profitability across different brands and regions</p>
+                            </div>
+                            <div class="objective-card">
+                                <i class="fas fa-chart-line"></i>
+                                <h4>Growth Rate Analysis</h4>
+                                <p>Track sales growth patterns and seasonal trends</p>
+                            </div>
+                            <div class="objective-card">
+                                <i class="fas fa-undo"></i>
+                                <h4>Return Rate Analysis</h4>
+                                <p>Compare return rates against industry benchmarks</p>
+                            </div>
+                            <div class="objective-card">
+                                <i class="fas fa-lightbulb"></i>
+                                <h4>Custom Analysis</h4>
+                                <p>Propose additional insights for business improvement</p>
+                            </div>
+                        </div>
+                    </div>
+
+                    <div class="data-dictionary">
+                        <h3>Data Dictionary</h3>
+                        <div class="table-container">
+                            <table class="data-table">
+                                <thead>
+                                    <tr>
+                                        <th>Field Name</th>
+                                        <th>Data Type</th>
+                                        <th>Description</th>
+                                    </tr>
+                                </thead>
+                                <tbody>
+                                    <tr>
+                                        <td>TRAN_AMT</td>
+                                        <td>Float</td>
+                                        <td>Total transaction amount</td>
+                                    </tr>
+                                    <tr>
+                                        <td>ORIG_PRICE</td>
+                                        <td>Float</td>
+                                        <td>Original selling price</td>
+                                    </tr>
+                                    <tr>
+                                        <td>SALE_PRICE</td>
+                                        <td>Float</td>
+                                        <td>Selling price</td>
+                                    </tr>
+                                    <tr>
+                                        <td>TRAN_DATE</td>
+                                        <td>Float</td>
+                                        <td>Transaction dates</td>
+                                    </tr>
+                                    <tr>
+                                        <td>COST</td>
+                                        <td>Float</td>
+                                        <td>Cost of the products</td>
+                                    </tr>
+                                    <tr>
+                                        <td>DEPT_DESC</td>
+                                        <td>String</td>
+                                        <td>Brand names</td>
+                                    </tr>
+                                    <tr>
+                                        <td>STATE</td>
+                                        <td>String</td>
+                                        <td>State of stores</td>
+                                    </tr>
+                                    <tr>
+                                        <td>DEPTCENT_DESC</td>
+                                        <td>String</td>
+                                        <td>Department descriptions</td>
+                                    </tr>
+                                    <tr>
+                                        <td>TRAN_TYPE</td>
+                                        <td>String</td>
+                                        <td>Transaction types: purchase or return</td>
+                                    </tr>
+                                    <tr>
+                                        <td>TENDER_TYPE</td>
+                                        <td>String</td>
+                                        <td>Payment types</td>
+                                    </tr>
+                                </tbody>
+                            </table>
+                        </div>
+                    </div>
+                </div>
+            </div>
+        </section>
+
+        <!-- Methodology Section -->
+        <section id="methodology" class="section">
+            <div class="container">
+                <h2 class="section-title">Methodology</h2>
+                <div class="methodology-content">
+                    <div class="method-steps">
+                        <h3>Five-Step Analysis Process</h3>
+                        <div class="steps-container">
+                            <div class="step">
+                                <div class="step-number">1</div>
+                                <div class="step-content">
+                                    <h4>Database Analysis</h4>
+                                    <p>Generate UML diagrams to understand table relationships and identify data quality issues</p>
+                                </div>
+                            </div>
+                            <div class="step">
+                                <div class="step-number">2</div>
+                                <div class="step-content">
+                                    <h4>Data Extraction</h4>
+                                    <p>Write SQL queries to extract required data and create calculated fields for discount rates and profit margins</p>
+                                </div>
+                            </div>
+                            <div class="step">
+                                <div class="step-number">3</div>
+                                <div class="step-content">
+                                    <h4>Data Visualization</h4>
+                                    <p>Create geographic maps, word clouds, box-and-whisker plots, and clustering analysis in Tableau</p>
+                                </div>
+                            </div>
+                            <div class="step">
+                                <div class="step-number">4</div>
+                                <div class="step-content">
+                                    <h4>Story Creation</h4>
+                                    <p>Develop compelling narratives that highlight key insights and business recommendations</p>
+                                </div>
+                            </div>
+                            <div class="step">
+                                <div class="step-number">5</div>
+                                <div class="step-content">
+                                    <h4>Dashboard Development</h4>
+                                    <p>Create interactive dashboards enabling real-time exploration and decision-making</p>
+                                </div>
+                            </div>
+                        </div>
+                    </div>
+
+                    <div class="stem-skills">
+                        <h3>STEM Skills Integration</h3>
+                        <div class="skills-grid">
+                            <div class="skill-category">
+                                <i class="fas fa-code"></i>
+                                <h4>Programming & Coding</h4>
+                                <p>SQL query writing and database management</p>
+                            </div>
+                            <div class="skill-category">
+                                <i class="fas fa-calculator"></i>
+                                <h4>Mathematics & Statistics</h4>
+                                <p>Statistical analysis and data interpretation</p>
+                            </div>
+                            <div class="skill-category">
+                                <i class="fas fa-chart-pie"></i>
+                                <h4>Data Analysis</h4>
+                                <p>Data extraction, transformation, and visualization</p>
+                            </div>
+                            <div class="skill-category">
+                                <i class="fas fa-laptop-code"></i>
+                                <h4>Technology Proficiency</h4>
+                                <p>Advanced software tools and platforms</p>
+                            </div>
+                        </div>
+                    </div>
+                </div>
+            </div>
+        </section>
+
+        <!-- Visualizations Section -->
+        <section id="visualizations" class="section bg-light">
+            <div class="container">
+                <h2 class="section-title">Data Visualizations</h2>
+                <div class="visualizations-content">
+                    <div class="viz-intro">
+                        <p>The case study includes comprehensive visualizations created using Tableau to analyze Dillard's cosmetic department data across multiple dimensions.</p>
+                    </div>
+
+                    <div class="viz-grid">
+                        <div class="viz-card">
+                            <div class="viz-placeholder">
+                                <i class="fas fa-map-marked-alt"></i>
+                                <h4>Geographic Map</h4>
+                                <p>State average discount rates for December 2015</p>
+                            </div>
+                            <div class="viz-description">
+                                <h5>Geographic Analysis</h5>
+                                <p>Visual representation of discount rates across different states, with color coding to identify regions meeting the 5% target discount rate.</p>
+                            </div>
+                        </div>
+
+                        <div class="viz-card">
+                            <div class="viz-placeholder">
+                                <i class="fas fa-cloud"></i>
+                                <h4>Word Cloud</h4>
+                                <p>Total sales of cosmetic brands in Texas</p>
+                            </div>
+                            <div class="viz-description">
+                                <h5>Brand Performance</h5>
+                                <p>Word cloud visualization showing the most popular cosmetic brands based on total sales volume, with size indicating sales magnitude.</p>
+                            </div>
+                        </div>
+
+                        <div class="viz-card">
+                            <div class="viz-placeholder">
+                                <i class="fas fa-chart-box"></i>
+                                <h4>Box-and-Whisker Plots</h4>
+                                <p>State average discount rates per weekday</p>
+                            </div>
+                            <div class="viz-description">
+                                <h5>Distribution Analysis</h5>
+                                <p>Statistical visualization showing the distribution of discount rates across weekdays, with reference lines for target performance.</p>
+                            </div>
+                        </div>
+
+                        <div class="viz-card">
+                            <div class="viz-placeholder">
+                                <i class="fas fa-project-diagram"></i>
+                                <h4>Clustering Analysis</h4>
+                                <p>Brand clusters based on sales and profit margins</p>
+                            </div>
+                            <div class="viz-description">
+                                <h5>Brand Segmentation</h5>
+                                <p>Machine learning clustering to identify natural groups of cosmetic brands based on performance metrics.</p>
+                            </div>
+                        </div>
+
+                        <div class="viz-card">
+                            <div class="viz-placeholder">
+                                <i class="fas fa-chart-line"></i>
+                                <h4>Trend Analysis</h4>
+                                <p>Sales growth rates by month</p>
+                            </div>
+                            <div class="viz-description">
+                                <h5>Growth Patterns</h5>
+                                <p>Time series analysis showing sales growth trends and seasonal patterns throughout the year.</p>
+                            </div>
+                        </div>
+
+                        <div class="viz-card">
+                            <div class="viz-placeholder">
+                                <i class="fas fa-undo"></i>
+                                <h4>Return Rate Analysis</h4>
+                                <p>Monthly return rates vs. industry average</p>
+                            </div>
+                            <div class="viz-description">
+                                <h5>Performance Benchmarking</h5>
+                                <p>Comparison of Dillard's return rates against industry standards (5.21%) with trend analysis.</p>
+                            </div>
+                        </div>
+                    </div>
+                </div>
+            </div>
+        </section>
+
+        <!-- Results Section -->
+        <section id="results" class="section">
+            <div class="container">
+                <h2 class="section-title">Key Findings & Results</h2>
+                <div class="results-content">
+                    <div class="findings-grid">
+                        <div class="finding-card">
+                            <div class="finding-icon">
+                                <i class="fas fa-map-marker-alt"></i>
+                            </div>
+                            <h3>Geographic Performance</h3>
+                            <ul>
+                                <li>Texas leads with 57 stores, followed by Florida with 42</li>
+                                <li>Most states met the 5% discount target in December 2015</li>
+                                <li>Iowa showed significant discount rate increases post-Christmas</li>
+                                <li>Arkansas maintained lowest discount rates but lower profit margins</li>
+                            </ul>
+                        </div>
+
+                        <div class="finding-card">
+                            <div class="finding-icon">
+                                <i class="fas fa-star"></i>
+                            </div>
+                            <h3>Brand Performance</h3>
+                            <ul>
+                                <li>Top 5 brands: Clinique, Estée Lauder, Lancôme, MAC, Chanel</li>
+                                <li>Consistent popularity across different states</li>
+                                <li>Regional preferences identified between Florida and Louisiana</li>
+                                <li>Brand clustering revealed four distinct performance groups</li>
+                            </ul>
+                        </div>
+
+                        <div class="finding-card">
+                            <div class="finding-icon">
+                                <i class="fas fa-calendar-week"></i>
+                            </div>
+                            <h3>Weekly Patterns</h3>
+                            <ul>
+                                <li>Thursday and Friday showed higher discount rates</li>
+                                <li>Saturday sales were highest despite lower discounts</li>
+                                <li>No clear correlation between discount rates and sales volume</li>
+                                <li>Iowa consistently offered highest discount rates</li>
+                            </ul>
+                        </div>
+
+                        <div class="finding-card">
+                            <div class="finding-icon">
+                                <i class="fas fa-chart-line"></i>
+                            </div>
+                            <h3>Growth Trends</h3>
+                            <ul>
+                                <li>Significant sales fluctuations in 2015 (Jan-Aug)</li>
+                                <li>Smoother decline patterns in 2016</li>
+                                <li>Sharp drops in March and August 2015</li>
+                                <li>Predicted 20% growth rate for February 2017</li>
+                            </ul>
+                        </div>
+
+                        <div class="finding-card">
+                            <div class="finding-icon">
+                                <i class="fas fa-undo"></i>
+                            </div>
+                            <h3>Return Analysis</h3>
+                            <ul>
+                                <li>Dillard's outperformed industry average (5.21%)</li>
+                                <li>Higher return rates in January (post-Christmas)</li>
+                                <li>Stable 3-4% rates between February-October</li>
+                                <li>Gift card transactions had highest return rates</li>
+                            </ul>
+                        </div>
+
+                        <div class="finding-card">
+                            <div class="finding-icon">
+                                <i class="fas fa-lightbulb"></i>
+                            </div>
+                            <h3>Business Recommendations</h3>
+                            <ul>
+                                <li>Focus on Saturday promotional activities</li>
+                                <li>Reduce Thursday discount rates to improve margins</li>
+                                <li>Implement targeted strategies for different brand clusters</li>
+                                <li>Consider alternative promotional methods beyond discounts</li>
+                            </ul>
+                        </div>
+                    </div>
+                </div>
+            </div>
+        </section>
+
+        <!-- Educational Impact Section -->
+        <section class="section bg-light">
+            <div class="container">
+                <h2 class="section-title">Educational Impact & STEM Integration</h2>
+                <div class="impact-content">
+                    <div class="impact-stats">
+                        <div class="stat-card">
+                            <div class="stat-number">87%</div>
+                            <div class="stat-label">Employers favor accounting graduates with analytics skills</div>
+                        </div>
+                        <div class="stat-card">
+                            <div class="stat-number">57</div>
+                            <div class="stat-label">Universities offering STEM-designated Accounting Programs</div>
+                        </div>
+                        <div class="stat-card">
+                            <div class="stat-number">45</div>
+                            <div class="stat-label">Students completed the case study across multiple semesters</div>
+                        </div>
+                        <div class="stat-card">
+                            <div class="stat-number">8</div>
+                            <div class="stat-label">Hours average completion time for comprehensive analysis</div>
+                        </div>
+                    </div>
+
+                    <div class="learning-objectives">
+                        <h3>Learning Objectives Achieved</h3>
+                        <div class="objectives-list">
+                            <div class="objective-item">
+                                <i class="fas fa-database"></i>
+                                <span>Create database UML diagrams and understand table relationships</span>
+                            </div>
+                            <div class="objective-item">
+                                <i class="fas fa-code"></i>
+                                <span>Extract and transform data using SQL queries</span>
+                            </div>
+                            <div class="objective-item">
+                                <i class="fas fa-chart-bar"></i>
+                                <span>Create comprehensive visualizations in Tableau</span>
+                            </div>
+                            <div class="objective-item">
+                                <i class="fas fa-project-diagram"></i>
+                                <span>Conduct clustering analysis for brand segmentation</span>
+                            </div>
+                            <div class="objective-item">
+                                <i class="fas fa-filter"></i>
+                                <span>Use filters and page functions for data exploration</span>
+                            </div>
+                            <div class="objective-item">
+                                <i class="fas fa-chart-line"></i>
+                                <span>Perform KPI analysis with reference lines</span>
+                            </div>
+                            <div class="objective-item">
+                                <i class="fas fa-brain"></i>
+                                <span>Develop data analytics mindset and critical thinking</span>
+                            </div>
+                            <div class="objective-item">
+                                <i class="fas fa-file-alt"></i>
+                                <span>Produce professional analysis reports with insights</span>
+                            </div>
+                        </div>
+                    </div>
+                </div>
+            </div>
+        </section>
+
+        <!-- Conclusion Section -->
+        <section id="conclusion" class="section">
+            <div class="container">
+                <h2 class="section-title">Conclusion & Future Directions</h2>
+                <div class="conclusion-content">
+                    <div class="conclusion-main">
+                        <p class="lead">This comprehensive case study demonstrates the successful integration of STEM skills into accounting education, providing students with practical experience in data analytics using real-world business data.</p>
+                        
+                        <div class="key-achievements">
+                            <h3>Key Achievements</h3>
+                            <ul>
+                                <li><i class="fas fa-check"></i> Complete data analytics process from extraction to visualization</li>
+                                <li><i class="fas fa-check"></i> Real-world application using Dillard's department store data</li>
+                                <li><i class="fas fa-check"></i> Integration of SQL and Tableau for comprehensive analysis</li>
+                                <li><i class="fas fa-check"></i> Development of critical thinking and communication skills</li>
+                                <li><i class="fas fa-check"></i> Preparation for modern accounting profession requirements</li>
+                            </ul>
+                        </div>
+                    </div>
+
+                    <div class="future-directions">
+                        <h3>Future Applications</h3>
+                        <div class="applications-grid">
+                            <div class="application-card">
+                                <i class="fas fa-graduation-cap"></i>
+                                <h4>Financial Accounting</h4>
+                                <p>Adapt for financial statement analysis and ratio calculations</p>
+                            </div>
+                            <div class="application-card">
+                                <i class="fas fa-briefcase"></i>
+                                <h4>Managerial Accounting</h4>
+                                <p>Focus on KPI analysis and performance management</p>
+                            </div>
+                            <div class="application-card">
+                                <i class="fas fa-search"></i>
+                                <h4>Auditing</h4>
+                                <p>Apply for fraud detection and risk assessment</p>
+                            </div>
+                            <div class="application-card">
+                                <i class="fas fa-chart-pie"></i>
+                                <h4>Tax Planning</h4>
+                                <p>Use for tax compliance and planning strategies</p>
+                            </div>
+                        </div>
+                    </div>
+
+                    <div class="call-to-action">
+                        <h3>Ready to Transform Accounting Education?</h3>
+                        <p>This case study represents a significant step toward integrating STEM skills into accounting education, preparing students for the data-driven future of the profession.</p>
+                        <div class="cta-buttons">
+                            <button class="btn btn-primary">Access Full Paper</button>
+                            <button class="btn btn-secondary">Download Case Materials</button>
+                        </div>
+                    </div>
+                </div>
+            </div>
+        </section>
+    </main>
+
+    <footer class="footer">
+        <div class="container">
+            <div class="footer-content">
+                <div class="footer-section">
+                    <h4>Journal Information</h4>
+                    <p>Journal of Accounting Education</p>
+                    <p>Volume 72, 2025</p>
+                    <p>DOI: 10.1016/j.jaccedu.2025.100978</p>
+                </div>
+                <div class="footer-section">
+                    <h4>Authors</h4>
+                    <p>Yuxin Shan</p>
+                    <p>University of Wisconsin – Eau Claire</p>
+                    <p>Vernon J. Richardson</p>
+                    <p>University of Arkansas</p>
+                </div>
+                <div class="footer-section">
+                    <h4>Keywords</h4>
+                    <div class="footer-keywords">
+                        <span>Data Analytics</span>
+                        <span>SQL</span>
+                        <span>Tableau</span>
+                        <span>STEM Education</span>
+                    </div>
+                </div>
+            </div>
+            <div class="footer-bottom">
+                <p>&copy; 2025 Journal of Accounting Education. All rights reserved.</p>
+            </div>
+        </div>
+    </footer>
+
+    <script src="script.js"></script>
+</body>
+</html>
