@@ -1,0 +1,611 @@
+{
+  "images": [
+    {
+      "page": 1,
+      "name": "page_1_img_1.png",
+      "path": "/workspace/page_1_img_1.png",
+      "size": [
+        236,
+        298
+      ]
+    },
+    {
+      "page": 1,
+      "name": "page_1_img_2.png",
+      "path": "/workspace/page_1_img_2.png",
+      "size": [
+        33,
+        33
+      ]
+    },
+    {
+      "page": 1,
+      "name": "page_1_img_3.png",
+      "path": "/workspace/page_1_img_3.png",
+      "size": [
+        248,
+        271
+      ]
+    },
+    {
+      "page": 2,
+      "name": "page_2_img_1.png",
+      "path": "/workspace/page_2_img_1.png",
+      "size": [
+        2014,
+        1318
+      ]
+    },
+    {
+      "page": 3,
+      "name": "page_3_img_1.png",
+      "path": "/workspace/page_3_img_1.png",
+      "size": [
+        1951,
+        1096
+      ]
+    },
+    {
+      "page": 3,
+      "name": "page_3_img_2.png",
+      "path": "/workspace/page_3_img_2.png",
+      "size": [
+        1897,
+        1080
+      ]
+    },
+    {
+      "page": 4,
+      "name": "page_4_img_1.png",
+      "path": "/workspace/page_4_img_1.png",
+      "size": [
+        1895,
+        907
+      ]
+    },
+    {
+      "page": 4,
+      "name": "page_4_img_2.png",
+      "path": "/workspace/page_4_img_2.png",
+      "size": [
+        1955,
+        976
+      ]
+    },
+    {
+      "page": 5,
+      "name": "page_5_img_1.png",
+      "path": "/workspace/page_5_img_1.png",
+      "size": [
+        1896,
+        955
+      ]
+    },
+    {
+      "page": 5,
+      "name": "page_5_img_2.png",
+      "path": "/workspace/page_5_img_2.png",
+      "size": [
+        1895,
+        945
+      ]
+    },
+    {
+      "page": 12,
+      "name": "page_12_img_1.png",
+      "path": "/workspace/page_12_img_1.png",
+      "size": [
+        1830,
+        2041
+      ]
+    },
+    {
+      "page": 13,
+      "name": "page_13_img_1.png",
+      "path": "/workspace/page_13_img_1.png",
+      "size": [
+        1897,
+        1172
+      ]
+    },
+    {
+      "page": 13,
+      "name": "page_13_img_2.png",
+      "path": "/workspace/page_13_img_2.png",
+      "size": [
+        452,
+        81
+      ]
+    },
+    {
+      "page": 14,
+      "name": "page_14_img_1.png",
+      "path": "/workspace/page_14_img_1.png",
+      "size": [
+        582,
+        421
+      ]
+    },
+    {
+      "page": 14,
+      "name": "page_14_img_2.png",
+      "path": "/workspace/page_14_img_2.png",
+      "size": [
+        586,
+        370
+      ]
+    },
+    {
+      "page": 15,
+      "name": "page_15_img_1.png",
+      "path": "/workspace/page_15_img_1.png",
+      "size": [
+        1378,
+        826
+      ]
+    },
+    {
+      "page": 15,
+      "name": "page_15_img_2.png",
+      "path": "/workspace/page_15_img_2.png",
+      "size": [
+        1513,
+        872
+      ]
+    },
+    {
+      "page": 16,
+      "name": "page_16_img_1.png",
+      "path": "/workspace/page_16_img_1.png",
+      "size": [
+        1467,
+        899
+      ]
+    },
+    {
+      "page": 16,
+      "name": "page_16_img_2.png",
+      "path": "/workspace/page_16_img_2.png",
+      "size": [
+        1444,
+        883
+      ]
+    },
+    {
+      "page": 17,
+      "name": "page_17_img_1.png",
+      "path": "/workspace/page_17_img_1.png",
+      "size": [
+        1951,
+        1176
+      ]
+    },
+    {
+      "page": 18,
+      "name": "page_18_img_1.png",
+      "path": "/workspace/page_18_img_1.png",
+      "size": [
+        1950,
+        1183
+      ]
+    },
+    {
+      "page": 19,
+      "name": "page_19_img_1.png",
+      "path": "/workspace/page_19_img_1.png",
+      "size": [
+        1746,
+        1058
+      ]
+    },
+    {
+      "page": 19,
+      "name": "page_19_img_2.png",
+      "path": "/workspace/page_19_img_2.png",
+      "size": [
+        1780,
+        1089
+      ]
+    },
+    {
+      "page": 20,
+      "name": "page_20_img_1.png",
+      "path": "/workspace/page_20_img_1.png",
+      "size": [
+        1599,
+        966
+      ]
+    },
+    {
+      "page": 21,
+      "name": "page_21_img_1.png",
+      "path": "/workspace/page_21_img_1.png",
+      "size": [
+        1950,
+        1172
+      ]
+    },
+    {
+      "page": 22,
+      "name": "page_22_img_1.png",
+      "path": "/workspace/page_22_img_1.png",
+      "size": [
+        1860,
+        1147
+      ]
+    },
+    {
+      "page": 22,
+      "name": "page_22_img_2.png",
+      "path": "/workspace/page_22_img_2.png",
+      "size": [
+        1888,
+        1139
+      ]
+    },
+    {
+      "page": 23,
+      "name": "page_23_img_1.png",
+      "path": "/workspace/page_23_img_1.png",
+      "size": [
+        1848,
+        1127
+      ]
+    },
+    {
+      "page": 24,
+      "name": "page_24_img_1.png",
+      "path": "/workspace/page_24_img_1.png",
+      "size": [
+        1928,
+        1177
+      ]
+    },
+    {
+      "page": 25,
+      "name": "page_25_img_1.png",
+      "path": "/workspace/page_25_img_1.png",
+      "size": [
+        1928,
+        1252
+      ]
+    },
+    {
+      "page": 26,
+      "name": "page_26_img_1.png",
+      "path": "/workspace/page_26_img_1.png",
+      "size": [
+        1949,
+        1545
+      ]
+    },
+    {
+      "page": 27,
+      "name": "page_27_img_1.png",
+      "path": "/workspace/page_27_img_1.png",
+      "size": [
+        1949,
+        1340
+      ]
+    }
+  ],
+  "content_with_images": [
+    {
+      "page": 1,
+      "text": "Querying and visualizing financial data: A teaching case applying \nSTEM skills\u2606\nYuxin Shan a,*\n, Vernon J. Richardson b\na University of Wisconsin \u2013 Eau Claire, Accounting and Finance Department, 105 Garfield Avenue, Eau Claire, WI 54701, United States\nb University of Arkansas, Department of Accounting, 1 University of Arkansas, Fayetteville, AR 72701, United States\nA R T I C L E  I N F O\nKeywords:\nData analytics\nSQL\nTableau\nData visualization\nA B S T R A C T\nAdvanced technologies have dramatically changed the ways that accounting professionals collect, analyze and \ninterpret data. Embracing the prevalent implementation of advanced technologies, accounting is moving towards \na STEM discipline and requesting accounting students be equipped with emerging technologies. In response to \nthe increasing requirements from the Association to Advance Collegiate Schools of Business (AACSB) and CPA \nexams on students\u2019 data analytics skills, this case provides you an opportunity to complete the data analytics \nprocess by analyzing Dillard\u2019s data using Structured Query Language (SQL) and Tableau. Specifically, this case \nprovides an illustration of real-world data analysis, including the use of SQL to extract required data, the use of \nword clouds, geographic maps, and box-and-whisker plots to visualize data and outliers, an illustration of \ngrouping data by clustering, and using interactive dashboards and narrative stories to communicate results. We \naim to use software tools that you are familiar with to inspire your interest in data analytics, helping you un\u00ad\nderstand the enormous power of SQL and Tableau to query, aggregate, analyze and visualize massive data as you \nbuild your own data analytics mindset.\n1. The case\nDillard\u2019s, Inc. is a high-end department store chain based in Little \nRock, Arkansas. It offers one-stop shopping for clothes, shoes, bags, \naccessories, home and beauty products. Dillard\u2019s was founded by Wil\u00ad\nliam T Dillard in 1938. Dillard\u2019s family expanded its business empire in \nthe 1960s through acquisition and went public on the American Stock \nExchange in 1969. Currently, it operates approximately 282 stores \nacross 29 states. Texas holds the highest number of Dillard\u2019s stores, with \n57 establishments, closely followed by Florida with 42. All stores are \ncontrolled by the Dillard\u2019s family.\nThe company has been collecting daily transactional data in each of \nits stores for years. The CEO asked you, the manager of the cosmetic \ndepartment, to prepare a report to summarize company\u2019s performance. \nYou need to analyze total sales, discount rate, profit margin, sales \ngrowth rate, and return rates as required. Additionally, you are asked to \npropose an additional analysis on your own. You will access company \ndata through Microsoft SQL Server from Dillard\u2019s database. The CEO \nexpects to have an informative review of the Christmas season to help \nthe company improve its holiday sales strategy. Additionally, the CEO \nwould like to compare the performance of different states and brands to \nhelp the company make business expansion decisions and sales pro\u00ad\nmotion plans for its different brands. It is a great opportunity for you to \nimpress the CEO with a professional report using your data analytics \nskills. The data dictionary is presented in Table 1.\nAfter thinking through the analysis, you plan to complete the \nfollowing five parts: \n1) You need to extract data that is saved in different tables. Therefore, \nyou first need to find the connections between tables by generating \nthe Unified Modeling Language (UML) of the database from Micro\u00ad\nsoft SQL Server Management Studio. It is also a good habit to get \nsample data of each table first before moving into the in-depth \nanalysis (for example, using the SQL statement SELECT TOP 10 * \nFROM TABLE). This step will allow you to find missing data, \nabnormal data, and incorrect format of data recognized by Tableau.\n2) Extract data from the Microsoft server: \na) Write a SQL query to extract TRAN_AMT, ORIG_PRICE, SALE_\u00ad\nPRICE, TRAN_DATE, COST, DEPT_DESC, STATE, DEPTCENT_\u00ad\nDESC, TRAN_TYPE and TENDER_TYPE from Dillard\u2019s database.\n\u2606This article is part of a special issue entitled: \u2018STEM\u2019 published in Journal of Accounting Education.\n* Corresponding author.\nE-mail addresses: shany@uwec.edu (Y. Shan), VRichardson@walton.uark.edu (V.J. Richardson). \nContents lists available at ScienceDirect\nJournal of Accounting Education\njournal homepage: www.elsevier.com/locate/jaccedu\nhttps://doi.org/10.1016/j.jaccedu.2025.100978\nReceived 30 July 2023; Received in revised form 23 May 2025; Accepted 9 June 2025  \nJournal of Accounting Education 72 (2025) 100978 \nAvailable online 26 June 2025 \n0748-5751/\u00a9 2025 Elsevier Ltd. All rights are reserved, including those for text and data mining, AI training, and similar technologies. \n",
+      "image_count": 3,
+      "images": [
+        {
+          "index": 0,
+          "rect": "Rect(501.052001953125, 55.44550323486328, 557.744873046875, 126.99200439453125)"
+        },
+        {
+          "index": 1,
+          "rect": "Rect(104.37200164794922, 211.01162719726562, 112.42239379882812, 219.06201171875)"
+        },
+        {
+          "index": 2,
+          "rect": "Rect(36.793701171875, 61.965087890625, 96.37800598144531, 127.1619873046875)"
+        }
+      ]
+    },
+    {
+      "page": 2,
+      "text": "b) Analyze discount levels and profit margins.\nYou need to generate two calculated fields:\nDISCOUNT_RATE =\n(ORIG_PRICE-SALE_PRICE)/ORIG_PRICE \nand PROFIT_MARGIN = (TRAN_AMT-COST)/TRAN_AMT.\nc) Extract the cosmetic department\u2019s data.\n3) Conduct initial analyses and visualize the results. Specifically, you \nneed to create the following graphs in Tableau: \na) A geographic map that shows the average discount rates of each \nstate. Set 5 % as your targeted discount rate by adjusting the \ncenter of the color. Use the \u201cFilters\u201d function to get data for \nDecember 2015.\nb) A word cloud for the total sales of each cosmetic brand. Add \nSTATE to pages. Get data for Florida.\nc) The box-and-whisker plots that show the distribution of the \naverage discount rates of each state on each weekday. Add a \nreference line for the targeted discount rate of 5 %.\nd) A clustering analysis to find natural clusters of cosmetic brands \ndetermined by the total sales and average profit margin.\ne) A line chart showing the year-over-year sales growth rates by \nmonth.\nf) Select and create a visualization that clearly presents Dillard\u2019s \ncosmetic department\u2019s average return rates by month for 2016. \nAdditionally, compare these rates with the industry average re\u00ad\nturn rate. To calculate the return rate, pivot the column TRAN_\u00ad\nTYPE. The average industry return rate for beauty products is \n5.21 % (USPS, 2024).\ng) Browse the data included in the database, propose a new analysis, \nvisualize the results, and explain your findings.\n4) Create a story that will be used during the presentation and highlight \nimportant information on each graph.\n5) Create a dashboard to enable the interaction between different \ngraphs.\nYou plan to retrieve data from Microsoft SQL Server in Tableau \ndirectly. The other option is to get data from Microsoft SQL Server in \nExcel and then import data into Tableau. Your analysis will proceed \nthrough the following steps in Tableau: \na) Extract, Transform, and Load (ETL) data.\nb) Create visualization graphs as mentioned.\nc) Create a story and highlight insights of each graph.\nd) Create a dashboard and use the word cloud as the filter of the \ndashboard.\ne) Create a static report including screenshots and insights.\nf) Prepare a presentation to present and interpret analysis results.\nYou can decide the color, fonts, styles, etc. Examples of UML and \nvisualization graphs are provided in Figs. 1, 2, 3, 4, 5, 6 and 7. Your work \nshould be similar to these images.\nTable 1 \nData dictionary.\nName\nData type\nDescription\nTRAN_AMT\nFloat\nTotal transaction amount.\nORIG_PRICE\nFloat\nOriginal selling price.\nSALE_PRICE\nFloat\nSelling price.\nTRAN_DATE\nFloat\nTransaction dates.\nCOST\nFloat\nCost of the products.\nDEPT_DESC\nString\nBrand names.\nSTATE\nString\nState of stores.\nDEPTCENT_DESC\nString\nDepartment descriptions.\nTRAN_TYPE\nString\nTransaction types: purchase or return\nTENDER_TYPE\nString\nPayment types.\nFig. 1. UML for TRANSACT, SKU and DEPARTMENT tables.\nY. Shan and V.J. Richardson                                                                                                                                                                                                                 \nJournal of Accounting Education 72 (2025) 100978 \n2 \n",
+      "image_count": 1,
+      "images": [
+        {
+          "index": 0,
+          "rect": "Rect(55.95589828491211, 409.8683776855469, 539.3638916015625, 726.2363891601562)"
+        }
+      ]
+    },
+    {
+      "page": 3,
+      "text": "2. Deliverables\nYou need to prepare a presentation to communicate your analysis \nwith the CEO and other senior managers. The static report is required to \nbe submitted before the presentation. Specifically, you need to provide \nthe following items: \n1) An analysis report (12-point Times New Roman font, single- \nspaced, one-inch margins) summarizing the key findings, \nincluding the analysis of the discount level of different states, the \ntrend of discount levels of states over weekdays, popular cosmetic \nbrands, and natural clusters of cosmetic brands based on the \nprofit margin and total sales. Under each graph, you need to \nprovide insightful discussions about the findings and suggestions \nby answering the questions below:\na) Analysis of the discount level of states for the Christmas Season \n(December 2015 to January 2016): \nFig. 2. Geographic map: State average discount rates for the Christmas season (December 2015 to January 2016).\nFig. 3. Word cloud: Total sales of cosmetic brands in Texas for the Christmas season (December 2015 to January 2016).\nY. Shan and V.J. Richardson                                                                                                                                                                                                                 \nJournal of Accounting Education 72 (2025) 100978 \n3 \n",
+      "image_count": 2,
+      "images": [
+        {
+          "index": 0,
+          "rect": "Rect(63.49610137939453, 55.40399169921875, 531.736083984375, 318.4440002441406)"
+        },
+        {
+          "index": 1,
+          "rect": "Rect(70.01570129394531, 356.37200927734375, 525.251708984375, 615.572021484375)"
+        }
+      ]
+    },
+    {
+      "page": 4,
+      "text": "i. Include a geographic map that presents the average discount \nrates of each state. Add average discount rates as labels. \nExplain the meaning of colors and the color center you used. \nUse the \u201cFilters\u201d function to get monthly data. Take a \nscreenshot of the geographic map for the month of December \n2015.\nii. List the names of states that meet the target (average dis\u00ad\ncount rate lower than 0.05) of the discount level in December \n2015.\niii. Compare the discount rate before (December 2015) and after \nChristmas (January 2016). What trends do you observe? \nAfter Christmas, which state experienced a notable increase \nin its discount rate?\niv. Are there any other visualizations that are good for this \nanalysis?\nv. Which states often offer higher discount rates? Do they \nachieve higher sales as a result? Is it worth offering higher \ndiscount rates? What are your suggestions?\nvi. Which states often offer lower discount rates? Do they ach\u00ad\nieve higher profit margins? Is it worth offering higher dis\u00ad\ncount rates? What are your suggestions?\nvii. Explore the discount rates in different months or holiday \nseasons. Do you observe any trends?\nFig. 4. Box-and-Whisker plots: State average discount rates per weekday in December 20151.\nFig. 5. Clustering analysis: Brand clusters for December 2015 (excluded the outlier).\n1 Range of Y axis has been manually adjusted for better presentation.\nY. Shan and V.J. Richardson                                                                                                                                                                                                                 \nJournal of Accounting Education 72 (2025) 100978 \n4 \n",
+      "image_count": 2,
+      "images": [
+        {
+          "index": 0,
+          "rect": "Rect(70.24250030517578, 55.39295959472656, 525.0394897460938, 273.032958984375)"
+        },
+        {
+          "index": 1,
+          "rect": "Rect(63.04249954223633, 490.3916015625, 532.1945190429688, 724.5355834960938)"
+        }
+      ]
+    },
+    {
+      "page": 5,
+      "text": "b) Analysis of sales of cosmetic brands.\ni. Include a word cloud that presents the total sales of the cosmetic \nbrands.\nii. Add STATE to Pages. Take screenshots of the word cloud for \nFlorida and Louisiana. Discuss the five most popular brands in \nFlorida and Louisiana. Are there any differences in customer \npreferences in these states?\niii. Are there any other visualizations that are good for this analysis?\niv. Do you observe any regional preferences for cosmetic brands? \nWhat are your suggestions for department store managers?\nv. Pick one state and 3 brands, and analyze the drivers of sales, such \nas sales quantity, unit price, or other factors.\nvi. What other data could you analyze with a word cloud?\nc) Analysis of the distribution of discount rates of states across \nweekday.\ni. Create a visualization that shows the distribution of the discount \nrate of each state per weekday. Use state as labels. Take a \nscreenshot.\nii. Do you see any trends over weekdays?\niii. Do you see any trends across states?\niv. Do higher discount rates necessarily lead to an increase in total \nsales? Create a box-and-whisker plots that shows the distribution \nof the total sales of each state per weekday. Use state as labels. \nTake a screenshot and include it in your report. Discuss the \nrelationship between discount rates and total sales.\nv. What are your suggestions for store managers?\nd) Clustering analysis.\ni. Include a cluster analysis that shows the nature clusters of brands \nbased on the average profit margin and total sales. You can decide \nFig. 6. Trend analysis: Sales growth rates of stores in Arkansas.\nFig. 7. Return rate analysis: Return rates of stores in Arkansas in 2015.\nY. Shan and V.J. Richardson                                                                                                                                                                                                                 \nJournal of Accounting Education 72 (2025) 100978 \n5 \n",
+      "image_count": 2,
+      "images": [
+        {
+          "index": 0,
+          "rect": "Rect(70.07240295410156, 55.420989990234375, 525.1973876953125, 284.5419921875)"
+        },
+        {
+          "index": 1,
+          "rect": "Rect(70.18579864501953, 322.44097900390625, 525.0947875976562, 549.240966796875)"
+        }
+      ]
+    },
+    {
+      "page": 6,
+      "text": "the number of clusters that best present the results. Take a \nscreenshot.\nii. How would you name these clusters?\niii. Are there any outliers that grab your attention?\niv. Propose promotion strategies for two clusters.\nv. What else could benefit from a cluster analysis?\ne) Trend analysis of sales growth rate.\ni. Include a trend analysis that shows the sales growth rate by \nmonth.\nii. Do you observe any trends throughout the year?\niii. Do you observe any trends over different years?\niv. Are there any unexpected sales growth drops? What are the \npossible reasons?\nv. What is your predicted sales growth rate for February 2017?\nvi. What visualizations are good at discovering trends?\nvii. What other data could you analyze with trend analysis?\nviii. What other analyses could you conduct using sales growth rate?\nf) Return rate analysis. \ni. Pick a visualization graph that can clearly present Dillard\u2019s \ncosmetic department\u2019s average return rates by month for \n2016. To calculate the return rate, write a query to pivot the \ncolumn TRAN_TYPE or generate a Calculated field for \nreturned products directly. The average industry return rate \nfor beauty products is 5.21 % (USPS, 2024).\nii. How is Dillard\u2019s performance compared to the industry \naverage? Does it meet your expectations? What are the dif\u00ad\nferences, if any?\niii. Do you observe any trends over the year? What are the \npossible reasons?\niv. What are the factors that may affect the product return rate? \nConduct one additional analysis and test your hypothesis.\ng) Your own analysis. \ni) How did you conduct your analysis?\nii) What are the key insights?\niii) How could the company apply the analysis results to improve \nits performance?\niv) Are there any additional analyses you would suggest based on \nyour current analysis?\nh) Dashboard. \nInclude a dashboard that includes the graphs you created. Use \nthe geographic map as the filter of the dashboard. Choose one \nstate and discuss the popular brands, profitable brands, dis\u00ad\ncount levels and profit margins of this state. Make suggestions \nto the CEO based on the performance of this state.\ni) Story \nTableau\u2019s Story feature is an effective tool to create compel\u00ad\nling narratives that convey data insights, provide context, \nestablish connections between decisions and outcomes, and \nmake a compelling case. Additionally, it serves as a powerful \ntool for leading presentations with real-time data access. \nCreate a story in Tableau using the graphs you created. Add \ncaptions for the key conclusions of each graph. Add notes to \nthe graphs to highlight important information for a more \ncomprehensive analysis.\n2) Upload the static report, Tableau file, and presentation slides to \nthe applicable Learning Management Systems (e.g., Canvas, or \nBlackboard). The slides should be 5 to 10 pages.\n3) Show up at the scheduled time for the presentation. Connect your \nTableau file to the server. The CEO (the instructor) will ask you \nquestions based on your analysis. You may need to edit your work \nto find the answers.\n3. Teaching note\n3.1. Motivation\nData analytics has been widely integrated into accounting practices. \nWith the increasing volume and velocity of big data, accounting pro\u00ad\nfessionals are expected to develop a diverse skill set to master emerging \ntechnologies such as Tableau, Power BI, Microsoft SQL, Alteryx, UIPath, \nand Python. For example, financial accounting relies on SQL to effi\u00ad\nciently extract, aggregate, and transform data from large datasets. \nManagerial accountants use data extraction and visualization tools to \nanalyze Key Performance Indicators (KPIs) and support data-driven \ndecision-making. Similarly, tax accountants extract and compare data \nfrom various sources to assess tax risks and develop tax planning stra\u00ad\ntegies. These technical proficiencies align accounting with STEM disci\u00ad\nplines, emphasizing its dependence on technology, quantitative \nreasoning, and problem-solving rather than solely traditional book\u00ad\nkeeping practices.\nRecognizing the increasing role of technology, the 2018 Association \nto Advance Collegiate Schools of Business (AACSB) standards strength\u00ad\nened data analytics requirements, as reflected in Standard A5. Specif\u00ad\nically, faculty and students are expected to develop the ability to master \ncurrent technologies and adapt to emerging technologies (AACSB, \n2018). The CPA exam accordingly adjusted the exam sections and \ntesting content in 2022. Starting from Jan 1, 2024, candidates need to \ntake Auditing and Attestation (AUD), Financial Accounting and \nReporting (FAR), and Regulation (REG) as core exams and choose one \nout of three discipline exams, including Business Analysis and Reporting \n(BAR), Information Systems and controls (ISC), and Tax Compliance and \nPlanning (TCP). It is worth noting that all exam sections in the new exam \ncover technology-related questions. All these moves are pointing toward \naccounting being considered a STEM discipline.\nSTEM fields of study include science, technology, engineering, and \nmathematics. While traditionally accounting is not considered a STEM \nfield, the fact is that technology is playing a crucial role in modern ac\u00ad\ncounting. Today, accounting students not only need to learn funda\u00ad\nmental accounting concepts, such as double-entry booking and financial \nratio analysis, but also need to master STEM-related concepts, such as \ndata storage, data extraction, data analysis, data visualization, process \nautomation, and information security. For example, accounting students \nnow are expected to be proficient in using advanced technologies such as \nSQL to extract data from large relational databases and load it to Tableau \nto analyze data and visualize results. Additionally, accounting pro\u00ad\nfessionals need to develop or assist in developing new technologies for \ndifferent working scenarios, such as automating fraud detection and \nreporting, improving data security, assisting data-driven decisions, \napplying XML technologies, and providing suggestions on tax planning.\nIn response to the shift towards technologies, including Accounting \nin STEM fields would more accurately reflect the current content of \naccounting education and practices. Accounting educators and pro\u00ad\nfessionals are actively working to incorporate accounting into recog\u00ad\nnized STEM programs. This designation will enhance the technology \nskills of accounting graduates, enable them to tackle complex issues, \nimprove data security, foster innovation, and strengthen their em\u00ad\nployers\u2019 technological competitiveness.\nSpecifically, on June 11, 2021, the H.R. 3855 Accounting STEM \nPursuit Act of 20212 was introduced at the 117th Congress to the United \nStates House of Representatives Education and Labor Committee to \namend the Student Support and Academic Enrichment Grant program to \nfoster career awareness in accounting as part of a well-rounded STEM \neducational experience and strengthen the earlier exposure of ac\u00ad\ncounting to elementary and secondary students. This act was broadly \n2 As of March 2025, the bills mentioned in this paragraph remain inactive, \nwith no further actions taken since their referral to the committee.\nY. Shan and V.J. Richardson                                                                                                                                                                                                                 \nJournal of Accounting Education 72 (2025) 100978 \n6 \n",
+      "image_count": 0,
+      "images": []
+    },
+    {
+      "page": 7,
+      "text": "supported by the American Institute of CPAs (AICPA), Center for Audit \nQuality (CAQ), Diverse Organization of Firms, National Association of \nBlack Accountants (NASBA), Inc., and American Accounting Associa\u00ad\ntion. In support of the H.R. 3855 Accounting STEM Pursuit Act of 2021, \nthe S. 3398 STEM Education in Accounting Act was introduced on Dec \n15, 2021 (reintroduced on 05/18/2023 as S.1705 STEM Education in \nAccounting Act). If passed, it would grant states and local educational \nagencies (LEAs) the authority to utilize grant funds from the Student \nSupport and Academic Enrichment Program to support accounting ed\u00ad\nucation. Particularly, LEAs can utilize these grants to establish ac\u00ad\ncounting programs, with a focus on improving access to high-quality \naccounting courses for students belonging to underrepresented groups \nup to 12th grade. Following that, the H.R. 3541 Accounting STEM \nPursuit Act of 2023 was introduced on May 18, 2023, at the 118th \nCongress with an additional finding of integrating STEM-designated \naccounting programs into middle and secondary curricula to expand \nthe accounting profession and the pipeline of accounting majors in \nhigher education. Consequently, a diverse group of young people from \nvarious backgrounds would have access to high-quality accounting \ncourses earlier, potentially attracting more students to pursue a career in \naccounting.\nOur paper aims to provide an overview of STEM certification and \nSTEM education in accounting, using a case exercise as an example to \nillustrate the application of STEM-related tools\u2014SQL and Tableau\u2014in \naccounting analysis. STEM majors require a diverse set of skills, \nincluding (1) mathematics and statistics, (2) data analysis and inter\u00ad\npretation, (3) programming and coding, (4) computer and technology \nproficiency, (5) problem-solving and critical thinking, (6) scientific \nmethod and research skills, and (7) adaptability and lifelong learning. \nOur case provides students with an opportunity to engage in the full data \nanalytics process by analyzing Dillard\u2019s data using Structured Query \nLanguage (SQL) and Tableau. Writing SQL aligns with the programming \nand coding skills essential in STEM. Using Tableau to aggregate, \nanalyze, visualize, and interpret data fulfills the STEM requirements for \ndata analysis and interpretation, mathematics and statistics, as well as \nproblem-solving and critical thinking. Our case simulates real-world \nproblem-solving students may encounter in the workplace, such as \nextracting required data from various datasets using SQL, visualizing \ndata and outliers through word clouds, geographic maps, and box-and- \nwhisker plots, grouping data via clustering, and effectively communi\u00ad\ncating analysis results using interactive dashboards and narrative stor\u00ad\nies. This case is designed to help students grasp the immense power of \nSQL and Tableau in querying, aggregating, analyzing, and visualizing \nvast datasets. By doing so, we aim to help students build their own data \nanalytics mindset that is in high demand by employers, including the \nability to: (1) ask the right questions; (2) extract, transform, and load \nrelevant data; (3) apply appropriate data analytic techniques; and (4) \ninterpret and share the results with stakeholders (Ernst & Young, 2017). \nAs many tools are interchangeable, building the data analytics mindset \ncan help students both apply the skills they learned in the working \nenvironment and easily adapt to new analytics software tools in the \nfuture.\n3.2. Background\n3.2.1. STEM and accounting\nAccording to 8 CFR 214.2(f)(10)(ii)(C)(2), a STEM field of study is \ndefined as one that falls within the Department of Education\u2019s Classifi\u00ad\ncation of Instructional Programs (CIP) taxonomy. Specifically, it refers \nto fields in the two-digit series that include engineering, biological sci\u00ad\nences, mathematics, and physical sciences, or related disciplines. \nGenerally, related fields involve research, innovation, or the develop\u00ad\nment of new technologies utilizing engineering, mathematics, computer \nscience, or natural sciences (such as physical, biological, and agricul\u00ad\ntural sciences). Modern accounting is not just bookkeeping but requires \ndeep integration with math, emerging technologies, and advanced \nanalytics skills. This shift is evident as 87 percent of employers are fa\u00ad\nvoring accounting graduates who possess advanced analytics skills \n(AICPA, 2023b).\nAccountants play a crucial role in driving and managing technolog\u00ad\nical innovation in finance and business. As technology has significantly \nchanged accounting practices, companies are in high demand for ac\u00ad\ncounting professionals who can develop or assist in developing software \nand other technologies to enhance the quality and scope of audits, \npredict trends, assess the risk of fraud, and reduce cybersecurity risks. \nIncorporating artificial intelligence in accounting software also enables \ncompanies to assess real-time financial risks and provide financial, \naudit, and tax recommendations based on various circumstances. To \nkeep up with these developments, accountants need to have strong \nmathematical and technological expertise.\nOn July 29, 2022, the AICPA submitted its nomination of adding \naccounting and related Classification of Instructional Program (CIP) \ncodes to the Department of Homeland Security\u2019s (DHS\u2019s) STEM Desig\u00ad\nnated Degree Program List, specifically under the \u201cT\u201d for Technology \n(AIPCA, 2022). Changing the field of study can better present the skills \nand competencies that accounting professionals are expected to acquire, \nexpand the diversity of the accounting workforce, and accelerate the \nevolution of accounting curriculums. As a result, more accounting pro\u00ad\ngrams will accelerate their incorporation of technology-related courses \nto meet current market requirements. Eventually, this will lead to more \naccounting graduates acquiring high technology skills, which are \nessential for building trust in the market.\nAdditionally, once it is approved, this classification would allow \nforeign students with F-1 Visa eligible for an extended period of 24 \nmonths for Optional Practical Training (OPT) in the U.S. beyond the \nstandard year. As of July 2023, 57 universities are offering STEM- \ndesignated Accounting Programs that they qualified for on their own \napplication (a list of these universities is provided in Appendix A). All of \nthese programs are graduate programs with an emphasis on data ana\u00ad\nlytics, development of software, cloud computing, or other emerging \ntechnology innovation skills. The visa extension gives international \nstudents of these STEM-designated Accounting Programs authorization \nto work in the U.S. for 3 years after graduation, which can help alleviate \nthe high demand for accounting professionals in the U.S.\nMany STEM core concepts are already included in today\u2019s account\u00ad\ning courses and practices, such as: writing SQL to extract relevant data \nfrom larger databases; preparing data for analysis, creating data visu\u00ad\nalizations to analyze data or communicate results; using statistics soft\u00ad\nware to assist decision-making; recording and protecting data using \ncryptography and cybersecurity; organizing data into relationship da\u00ad\ntabases; transmitting financial data using XML Technology and con\u00ad\nducting predictive and prescriptive analytics to address management \nquestions (AICPA, 2023a).\nOur case includes several of the aforementioned STEM core concepts. \nBy completing the case, students will review how data is stored in a \nrelational database and how to extract requested data using SQL from a \nlarge relational database. After extracting the data, students will need to \ntransform and clean data to prepare it for further analysis. They will \nthen use Tableau to analyze and visualize the data to generate valuable \nbusiness insights.\nEmbracing the demands of incorporating analytics skills into ac\u00ad\ncounting education, there has been a growing number of teaching cases \npublished in the last 15 years that use SQL and Tableau to query and \nvisualize data. Prior studies provide examples of using SQL to create and \nquery the data (Lambert, Holladay & Drum, 2016; Lawson & Street, \n2021; Lee & Casterella, 2023) and using Tableau to create traditional \ngraphs, geographic maps, and dashboards (Cunningham & Stein, 2018; \nHoelscher & Mortimer, 2018; Janvrin, Raschke, & Dilla, 2014; Kokina, \nPachamanova, & Corbett, 2017; Weirich, Tschakert, & Kozlowski, \n2018). We summarize teaching cases with an emphasis on data analytics \nin Table 2. While prior literature mostly focuses on helping students \npractice a few steps included in the data analytics process, our case \nY. Shan and V.J. Richardson                                                                                                                                                                                                                 \nJournal of Accounting Education 72 (2025) 100978 \n7 \n",
+      "image_count": 0,
+      "images": []
+    },
+    {
+      "page": 8,
+      "text": "provides students an opportunity to explore the complete data analytics \nprocess, including identifying questions, extracting data, cleansing data, \nanalyzing data, visualizing analysis results, and reporting and present\u00ad\ning results. In addition to data analytics skills, students are able to \npractice and improve their critical thinking and oral communication \nskills. The study of Garas and Wright (2024) also presents a compre\u00ad\nhensive case that covers the entire analytics process. However, while \ntheir focus is on no-code and low-code technologies, our case requires \nstudents to write queries themselves for data extraction and trans\u00ad\nformation. Furthermore, our case tasks students with creating multiple \ntypes of visualizations in Tableau.\n3.3. Educational objectives\nChanging the curriculum to intertwine data analytics and accounting \nbrings opportunities and challenges to accounting majors. To embrace \nthe emerging technology, the accounting curriculum needs to corre\u00ad\nspondingly adapt to the data analytics requirements. Students are \nrequired to be equipped with data analytics skills, including data \nextraction, transformation, analytics, visualization, etc. We developed \nthis case in response to the evolution of the accounting curriculum to \nprepare our students for advanced data analysis requirements. Students \nare able to practice the data analytics skills they learned including data \ncleaning, data verification, data normalization, data extraction, data \nanalysis, data visualization, data reporting, and business oral commu\u00ad\nnication. By accessing the real company\u2019s data (using the Dillard\u2019s \ndatabase), students better understand the database, learn to fix the \nproblems they are facing as they extract and analyze the data, simulate \nthe data analysis and reporting procedures, and build the data analytics \nmindset. As they are analyzing accounting data of product brands they \nare familiar with, it reinforces students\u2019 understanding of the capability \nand importance of data analytics. Additionally, our case shows how to \ncreate a word cloud and uses box-and-whisker plots to rank information \nand find outliers as well as uses clustering in Tableau to explore infor\u00ad\nmation and patterns hiding behind the data.\nFollowing the case instruction, students are required to extract data, \nload data, analyze data, visualize data, and more importantly use data to \naddress accounting questions. Students are also encouraged to go \nbeyond the questions often asked by the CEO (included in the Deliver\u00ad\nables section) and find additional information that may affect managers\u2019 \ndecisions. Specifically, students get the chance to find UML from the \nMicrosoft SQL server, browse and clean data, write SQL queries to exact \ndata in Tableau or Excel, and visualize data in Tableau. The skills stu\u00ad\ndents learn from this case can be applied to different workplace settings. \nIt can also help students adapt to other data extraction software or \nvisualization tools, such as MySQL and Microsoft Power BI. The \ncomprehensive case can empower students to build the data analytics \nmindset to analyze a substantial volume of data that is hard to analyze in \nExcel and use data to answer questions. Additionally, the exploratory \nanalysis allows students to practice letting the data tell the story and \ndisplay the underlying patterns.\nSpecifically, the learning objectives for this case include the \nfollowing: \n\u2022 Create database UML.\n\u2022 Extract, transform, and clean data from Microsoft SQL server using \nMicrosoft SQL Query in Tableau or Excel.\n\u2022 Create the geographic map, word cloud, and box-whisker-plots to \nestimate the sales performance, discount level, and profit margin \nlevel of cosmetic products of Dillard\u2019s in Tableau.\n\u2022 Conduct cluster analysis in Tableau to explore the nature groups of \ncosmetic product brands to make better promotion plans in the \nfuture.\n\u2022 Use filters and page functions to drill down into data for different \nmonths or states in Tableau.\n\u2022 Conduct KPI analysis in Tableau by adding a reference line and \nadjusting the color center.\n\u2022 Develop the data analytics mindset and critical thinking skills to \ncomplete the whole data analytics procedure.\n\u2022 Produce an analysis report that includes visualization graphs, dis\u00ad\ncussions, and suggestions.\n3.4. Case prerequisites\nIf the instructor uses this case as a capstone project requiring stu\u00ad\ndents to complete it independently, students should have a basic \nknowledge of SQL for data extraction and transformation, as well as \nadvanced visualization skills in Tableau, including creating geographic \nmaps, word clouds, and conducting cluster and KPI analysis. If the \ninstructor teaches the case step by step in class, it is recommended that \nstudents acquire basic SQL and Tableau skills before the case is \nintroduced.\n3.5. Evidence of efficacy\nThe case has been implemented in Spring 2021, Fall 2021, Fall 2022, \nand Spring 2023 in an undergraduate-level accounting data analytics \ncourse in the accounting program at a mid-size public university in the \nmidwestern United States. It is a 400-level elective course developed in \nSpring 2021. All the students were seniors. All classes were delivered in \nperson. The course had enrollments of 10 students in Spring 2021, 16 \nstudents in Fall 2021, 6 students in Fall 2022, and 13 students in Spring \n2023. Instructors teach the normal teaching material included in the \ncourse of accounting data analytics that covers Microsoft SQL and \nTable 2 \nPrior literature covering data analytics tools.\nCitations\nTechnology/software\nData extraction\nData cleansing\nData analysis\nData visualization\nCheng, Jones and Mobapatra (2024)\nAlteryx\n\u200b\nyes\nyes\nyes\nGaras and Wright (2024)\nUiPath, Alteryx, and Tableau\nyes\nyes\nyes\nyes\nLee and Casterella (2023)\nSQL and Alteryx\nyes\nyes\nyes\n\u200b\nNickell, Schwebke and Goldwater (2023)\nPower BI\n\u200b\n\u200b\nyes\nyes\nParlier and Lee (2023)\nExcel and Alteryx\n\u200b\n\u200b\nyes\n\u200b\nLibby, Schwebke and Goldwater (2022)\nPower BI\n\u200b\n\u200b\n\u200b\n\u200b\nLawson and Street (2021)\nSQL\n\u200b\nyes\nyes\n\u200b\nPresley (2019)\nExcel\n\u200b\n\u200b\nyes\n\u200b\nAngelo, Ayres and Stanfield (2018)\nExcel\n\u200b\n\u200b\nyes\nyes\nCunningham and Stein (2018)\nTabelau\n\u200b\n\u200b\nyes\nyes\nHoelscher and Mortimer (2018)\nTabelau\n\u200b\n\u200b\nyes\nyes\nFay and Negangard (2017)\nIDEA and Excel\n\u200b\nyes\nyes\n\u200b\nIgou and Coe (2016)\nTableau\n\u200b\n\u200b\nyes\nyes\nKokina, Pachamanova and Cobett (2016)\nExcel and Tableau\n\u200b\n\u200b\nyes\nyes\nLambert, Holladay and Drum (2016)\nSQL and Access\nyes\nyes\nyes\n\u200b\nMurthy (2010)\nACL, IDEA, Access, and Picalo\n\u200b\n\u200b\nyes\n\u200b\nY. Shan and V.J. Richardson                                                                                                                                                                                                                 \nJournal of Accounting Education 72 (2025) 100978 \n8 \n",
+      "image_count": 0,
+      "images": []
+    },
+    {
+      "page": 9,
+      "text": "Tableau throughout the semester. Before introducing the case, students \nlearn basic skills about using SQL clauses to query data (such as SELECT, \nJOIN, WHERE, ORDER BY, GROUP BY) and use Tableau to visualize and \nanalyze data in Tableau (including editing data, combining tables, \ncreating different kinds of visualization graphs, conduct clustering \nanalysis, and create dashboards and stories). Then, all 45 students \nenrolled in this course complete this case as a capstone assignment. The \ncase is introduced in week 11 and submitted in week 13 before the final \nexam. The presentations are scheduled for week 13. Students are \nrequired to complete the case individually. Example screenshots are \nprovided to help students check their progress.\nWe evaluated the efficacy of the case by comparing the accuracy of \nmultiple-choice questions before and after the completion of the case. \nStudents were asked to answer 7 multiple choice questions (3 points \neach) about data extraction, data cleaning, data analysis, and data \nvisualization before the introduction of the case. After the completion of \nthe case, students were asked to answer the same questions again. \nTable 3 presents the questions and results of the pre-test and post-test \nanalysis. Results show that students\u2019 performance significantly \nimproved on all SQL query questions and most Tableau-related ques\u00ad\ntions (p-value < 0.05 for the first 6 questions). It is worth noting that \nstudents\u2019 average grades on a complicated SQL query question (question \n4) and a clustering question (question 6) notably increased, showing \ntheir better understanding of SELECT and WHERE SQL clauses, and the \nfunction of clustering. Students\u2019 perception of the Story function in \nTableau was roughly the same as students already understood this \nconcept well before they completed the case.\n3.6. Implementation guidance\nThis case aims to evaluate data analytics skills students learned at the \nend of an accounting data analytics course and help students build a data \nanalytics mindset. It can be used in an advanced accounting data ana\u00ad\nlytics course for senior undergraduate students or graduate students. \nStudents need to apply the comprehensive skills they learned to write \nSQL queries, conduct explanatory and exploratory analyses, and \ncommunicate results. This case allows students to estimate financial \naccounting measures using the data from a familiar department store \ncompany. This case can be used as a capstone project that requests \nstudents to submit the assignment at the end of the semester. Instructors \ncan customize the required time period and accounting measures as \nneeded. The oral presentation is also optional depending on the schedule \nof the class.\nAlternatively, this case can be used as an in-class practice and require \nstudents to use their analysis to complete in-class quizzes. For example, \nthe instructor can introduce the fundamental skills of writing SQL \nqueries and conducting analysis in Tableau over the semester. Students \nbenefit from step-by-step guidance as they learn to use this software but \nwould need the help of a comprehensive case to help them master these \nanalytics skills and practice critical thinking skills. By completing this \ncase, students would be able to use analytics skills to answer business \nquestions, rather than complete a specific instructor\u2019s request. With that \nTable 3 \nEvidence of case efficacy.\nSkilled \nrelated\nQuestion (3 points each)\nPre-test \nMean\nPre-test \nStdev\nPost-test \nMean\nPost-test \nStdev\nP value (T < t, \ntwo-tail)\nn = 45\nn = 45\nn = 45\nn = 45\nn = 45\nSQL\n1. What is the correct query to extract data for the month of January?\na Where month(Tran_date)!  = \u201801\u2019\nb Where month(Tran_date) == \u201c01\u201d\nc Where month(Tran_date) = \u201901\u2019\nd If month(Tran_date) = \u201801\u2019\n2.267\n1.304\n2.667\n0.953\n0.013\nSQL\n2. Which SQL statement is correct?\na. FROM Table1 JOIN Table 2 ON variable1=variable2\nb. FROM Table1 JOIN Table 2 ON Table1.variable1=Table2.variable2\nc. FROM Table1 JOIN Table 2 IF Table1.variable1=Table2.variable2\nd. SELECT Table1 JOIN Table 2 ON variable1. Table1= variable2.Table2\n2.333\n1.261\n2.733\n0.863\n0.013\nSQL\n3. SQL clause_____is used to filter the data.\na WHERE\nb IF\nc FILTER\nd SELECT\n2.533\n1.100\n2.800\n0.757\n0.044\nSQL\n4. Which SQL statement is correct?\na. SELECT current_liability/current_asset AS current ratio FROM Balance_Sheet WHERE \ncurrent_asset !=0 AND current ratio >0\nb. SELECT current_liability/current_asset AS current ratio FROM Balance_Sheet WHERE \ncurrent_asset !=0 AND current_liability/current_asset >0\nc. SELECT current_liability/current_asset AS current_ratio FROM Balance_Sheet WHERE \ncurrent_asset !=0 AND current_ratio >0\nd. SELECT current_liability/current_asset AS current_ratio FROM Balance_Sheet WHERE \ncurrent_asset !=0 AND current_liability/current_asset >0\n1.933\n1.452\n2.600\n1.031\n0.001\nTableau\n5. Which statement is incorrect?\na. word cloud can be generated based on the frequency of product names\nb. word cloud can be generated based on the total sales of each product\nc. word cloud is good at showing the differences between different items\nd. word cloud is not good at presenting trends\n2.600\n1.031\n2.867\n0.625\n0.044\nTableau\n6. Which of the following best describes the clustering approach to data analytics?\na An attempt to assign each unit (or individual) in a population into a few categories.\nb An attempt to discover associations between individuals based on transactions \ninvolving them.\nc An attempt to identify similar individuals based on data known about them.\nd An attempt to divide individuals into groups in a useful or meaningful way.\n1.800\n1.486\n2.600\n1.031\n0.000\nTableau\n7. In Tableau, the story function can effectively.\na. tell a data narrative\nb. show interactions between visualization graphs\nc. provide context\nd. highlight information\n2.800\n0.757\n2.933\n0.625\n0.323\nY. Shan and V.J. Richardson                                                                                                                                                                                                                 \nJournal of Accounting Education 72 (2025) 100978 \n9 \n",
+      "image_count": 0,
+      "images": []
+    },
+    {
+      "page": 10,
+      "text": "being said, this case can help students review and practice the data \nanalytics skills they learned in a business setting and apply these skills to \nassist managers in making data-driven decisions. Additionally, students \nwere tasked with creating a formal report for the CEO and were required \nto address the CEO\u2019s (instructor\u2019s) questions during the presentation. \nThe case evaluates students\u2019 familiarity with analytics techniques and \nfinancial accounting analysis. Detailed requirements and example \nanalysis screenshots will be provided to help students assess their \nprogress. The solutions include step-by-step instructions, and screen\u00ad\nshots of analysis outputs for key steps are demonstrated in section 3.4. \nInstructors can use the solutions to validate the accuracy of students\u2019 \nsubmissions or use the solutions as teaching manuals if students have \nlimited analytics experience. The solutions highlight the steps where \nstudents frequently make mistakes.\nWe have used the case in a 400-level undergraduate accounting data \nanalytics course. This course uses the textbook \u201cData Analytics for Ac\u00ad\ncounting\u201d (Richardson, Terrell, & Teeter, 2023) which gives textbook \nusers permission to access Dillard\u2019s database through Microsoft SQL \nServer via the remote desktop of the University of Arkansas. If the \ninstructor does not use the textbook but would like to access Dillard\u2019s \ndata that was used in this case, please contact the authors.\nWe recommend that the instructors complete the case by following \nthe step-by-step instructions as part of their preparation. For textbook \nusers, it may take about 1 to 2 h to complete the case. For first-time users \nof the server, it may take approximately 2 to 4 h. Please allow additional \ntime if the instructor plans to request data from the corresponding \nauthor and set up a separate server connection.\nTo complete the whole case, students need approximately 8 h. It \nconsists of 2 h of data extraction, 3 h of data analysis and data visuali\u00ad\nzation, 2 h of report preparation, and 1 h of presentation preparation. \nFor students of the data analytics course and information systems \ncourse, we recommend allowing students to complete the case in 2 \nweeks. Instructors may also consider providing a Q&A session during \nlectures to assist students in making progress and providing them with \nthe opportunity to successfully complete the entire project.\n3.7. Recommended solutions\n3.7.1. Access Dillard\u2019s data\nInstructors can get access to Dillard\u2019s data from the following \nmethods: \na) If the instructor uses the textbook Data Analytics for Accounting \n(Richardson, Terrell, & Teeter, 2023), the instructor can request \nremote desktop accounts of the University of Arkansas for students \nby following the instructions included in instructor resources. The \ninstructor will also get the server and database information from \ninstructor resources. If so, students can follow the instructions and \nlog in to their accounts to get access to Tableau and the SQL server \nwe used for our case.\nb) If the instructor does not use the textbook, the instructor can request \nremote desktop accounts or a copy of the Excel file by contacting the \ncorresponding author. The corresponding author will also send the \ninstructor the server and database information. Students then can \ndownload the Tableau desktop and get a free student license for one \nyear from: https://www.tableau.com/academic/students.\n3.7.2. Step-by-step instructions\nStep-by-step instructions are provided in Appendix B. Students often \nstruggle with writing queries, particularly with identifying and \nexcluding abnormal values. Additionally, they may forget to filter the \ndata to the cosmetics department in SQL query. While most students can \nsuccessfully generate the required visualizations, some may need assis\u00ad\ntance with the word cloud and box-and-whisker plot. An effective way to \nsupport students is to schedule a Q&A session where they can ask \nquestions directly. In cases where data loads slowly or fails to load, \ninstructors can provide the following instructions: \no Stop waiting for Tableau to respond after 10 min of waiting if correct \nserver and database information were entered. (Note: It is important \nto give this instruction to students. If the data or visualizations can\u2019t \nbe loaded within 10 min, it is most likely that it won\u2019t be loaded. \nStudents may waste hours waiting without this instruction.)\no If Tableau fails to respond within 10 min despite a high-speed, stable \ninternet connection, try logging into the remote desktop accounting \nlater. (Note: Sometimes server issues cause delays. Logging in at a \ndifferent time may resolve the problem.)\no If the issue persists after several attempts, contact the instructor. \n(Note: Occasionally, students may be unable to load data into Tab\u00ad\nleau or create visualizations due to the high volume of data used in \nthe analysis. In this case, instructors can provide a smaller dataset in \nExcel to help students complete the remaining steps and ask students \nto submit their SQL queries separately. Based on our experience, \nmost students can complete the cases without this step.)\n3.7.3. Example of analysis report\nAn example of the analysis report is provided in Appendix C. In\u00ad\nstructors can contact the corresponding author to obtain a copy of the \nTableau solutions.\n4. Conclusion\nWe believe this case presents an engaging and practical real-world \nscenario that enables students to access the data server of a familiar \nreal-world department store company in the U.S. and analyze product \nbrands they are familiar with. Our comprehensive case shows students \nthe whole picture of data analytics, starting from asking business \nquestions, collecting data, analyzing data, visualizing data, and \ncommunicating results, which can help students practice data analytics \nskills as well as build a data analytics mindset. The case is designed to \nhelp students understand how companies use SQL and Tableau to \ngenerate valuable information and make data-driven decisions. In\u00ad\nstructors can use this case directly in an accounting data analytics or \naccounting information systems class or use the adapted version of a \ncommonly taught financial accounting or managerial accounting class. \nIn case students have no prior experience learning Microsoft SQL or \nTableau, the instructor can first show students how to complete the case \n(or a specific part of the case) step by step, following the recommended \nsolutions, then ask students to replicate the analysis using a different \ndata period or a different department for practice or a graded assign\u00ad\nment. This case can also be extended by asking students to propose \nadditional questions based on their original analyses and conduct \nadditional analyses to find the answers.\nWe here offer a few additional analyses that can be added to the case: \n(1) compare the return rate of online transactions and in-store trans\u00ad\nactions; (2) compare the sales growth rate of online transactions and in- \nstore transactions; (3) compare the return rate of gift card transactions \nand bank card transactions; (4) compare the sales growth rates between \ndifferent departments; (5) analyze the relationship between sales and \ncustomer distance; (6) analyze if higher discount rates are associated \nwith higher sales; (7) compare the profit margin between different de\u00ad\npartments; (8) analyze customers\u2019 preference on product colors in \ndifferent regions; (9) analyze customers\u2019 preference on product colors in \nseasons, and (10) analyze the customer retention rates over different \nstates.\nAdditionally, this case can be adapted to other accounting courses. \nFor example: \n(1) Application of this case to the financial accounting course:\nThis case is primarily designed for financial accounting settings. \nConsidering the complexity of the case, the financial accounting \nY. Shan and V.J. Richardson                                                                                                                                                                                                                 \nJournal of Accounting Education 72 (2025) 100978 \n10 \n",
+      "image_count": 0,
+      "images": []
+    },
+    {
+      "page": 11,
+      "text": "instructor could: \na. Skip the data extraction and data cleaning steps. Provide the data \nin an Excel file to students directly.\nb. Pick one or two analyses out of analyses a) to f).\nc. Assess students\u2019 skill levels first. For example, students may not \nknow how to use Tableau or generate word clouds in Tableau. In \nthis case, instructors can ask students to perform some analyses in \nExcel or show them how to use Tableau first.\n(2) Application of this case to the managerial accounting course:\nKey Performance Indicator (KPI) analysis can be additionally \nincluded in this case. Instructors can ask students to generate pa\u00ad\nrameters in Tableau to estimate if the company meets its targets. \nAdditionally, the design of the case can lean more towards discussing \nthe analysis results and providing suggestions to managers.\n(3) Application of this case to the graduate course:\na. To generate new variables and pivot columns, students can \nchoose between achieving this through the SQL query directly or \ngenerating calculated fields in Tableau after the data is extracted. \nFor a graduate course, the instructor can request students to \ncomplete these tasks using the SQL queries. The difficulty level \nwill be higher if students need to write the SQL query to achieve \nthese functions.\nb. For the clustering analysis, graduate students should be asked to \ncheck and explain the meaning of the statistical information for \nthe clustering model.\nc. Instructors can ask graduate students to collect Dillard\u2019s balance \nsheet account information themselves and merge it with the SQL \nquery. It would enable students to generate and analyze a variety \nof accounting ratios. Students then can conduct more compre\u00ad\nhensive financial statement analysis.\nd. Instructors can ask students to review their analyses and identify \nthe abnormal values.\nDeclaration of competing interest\nThe authors declare that they have no known competing financial \ninterests or personal relationships that could have appeared to influence \nthe work reported in this paper.\nAcknowledgments\nWe thank the anonymous reviewers, the guest editor Dr. Jason \nStanfield, and the editor Dr. Natalie Tatiana Churyk for their valuable \nfeedback and support throughout the review process.\nAppendix A. List of STEM-designated accounting programs (as of July 28, 2023)\n1\nAmerican University\n30\nSeattle University\n2\nArizona State University\n31\nSouthern Illinois University\n3\nArkansas State University\n32\nSyracuse University\n4\nBentley University\n33\nTulane University\n5\nBrigham Young University\n34\nUniversity of Arizona\n6\nBryant University\n35\nUniversity of California Irvine\n7\nCase Western Reserve University\n36\nUniversity of California Riverside\n8\nColorado State University\n37\nUniversity of California San Diego\n9\nColumbia University\n38\nUniversity of Delaware\n10\nCornell University\n39\nUniversity of Denver\n11\nFlorida State University\n40\nUniversity of Houston\n12\nFordham University\n41\nUniversity of Illinois Urbana-Champaign\n13\nGeorge Washington University\n42\nUniversity of Maryland\n14\nGolden Gate University\n43\nUniversity of Massachusetts Boston\n15\nIllinois State University\n44\nUniversity of Miami\n16\nIndiana University\n45\nUniversity of Michigan\n17\nLamar University\n46\nUniversity of Mississippi\n18\nLoyola Marymount University\n47\nUniversity of Missouri \u2212\nKansas City\n19\nMarquette University\n48\nUniversity of New Haven\n20\nMichigan State University\n49\nUniversity of Northern Iowa\n21\nNorth Carolina State University\n50\nUniversity of Pittsburgh\n22\nNorthern Illinois University\n51\nUniversity of Rochester\n23\nNova Southeastern University\n52\nUniversity of Southern California\n24\nOhio State University\n53\nUniversity of Virginia\n25\nPace University\n54\nUniversity of Washington Tacoma\n26\nPennsylvania State University\n55\nUniversity of Wisconsin Milwaukee\n27\nRice University\n56\nWake Forest University\n28\nRochester Institute of Technology\n57\nWilliam and Mary University\n29\nSanta Clara University\n\u200b\n\u200b\nY. Shan and V.J. Richardson                                                                                                                                                                                                                 \nJournal of Accounting Education 72 (2025) 100978 \n11 \n",
+      "image_count": 0,
+      "images": []
+    },
+    {
+      "page": 12,
+      "text": "Appendix B. Step-by-step instructions\na) Get UML for the Dillard\u2019s dataset.\nLog in to the remote desktop of the University of Arkansas > Open Microsoft SQL Server Management Studio > find the dataset WCOB_Dillards and \nexpand it > right-click Database Diagrams > click New Database Diagrams > add all the tables included in this dataset to the diagram. The database \ndiagram is as shown below:\nFig. B1. SQL database diagram.\nY. Shan and V.J. Richardson                                                                                                                                                                                                                 \nJournal of Accounting Education 72 (2025) 100978 \n12 \n",
+      "image_count": 1,
+      "images": [
+        {
+          "index": 0,
+          "rect": "Rect(78.0093994140625, 132.2039794921875, 517.2094116210938, 622.0919799804688)"
+        }
+      ]
+    },
+    {
+      "page": 13,
+      "text": "b) Query data using SQL.\nLog in to the remote desktop of the University of Arkansas > open Tableau Desktop > under the connect section, click Microsoft SQL Server > enter \nserver and database information > click Sign In. Tableau will then bring you to the page Data Source.\nUnder the Table section, double-click New Custom SQL > enter the following SQL statements:\nFig. B2. SQL query.\nNote: students may make mistakes when they write the query for the following reasons: \n\u2022 Name the new calculated filed (DISCOUNT_RATE and PROFIT_MARGIN) wrong. There should be no space between characters.\n\u2022 Didn\u2019t use correct primary keys and foreign keys to join the table. Instructors can guide students to review the UML to find the connections between \ntables.\n\u2022 Forget to use the WHERE clause to select data of the COSMETICS department.\n\u2022 Forget to exclude abnormal data using the statement: WHERE ORIG_PRICE >= SALE_PRICE AND TRAN_AMT <> 0.01.\n\u2022 Forget to set the rule to calculate (ORIG_PRICE-SALE_PRICE)/ORIG_PRICE. That is ORIG_PRICE <> 0.\n\u2022 Forget to set the rule to calculate (TRAN_AMT-COST)/TRAN_AMT. That is TRAM_AMT <> 0.\n\u2022 Use double quotes instead of single quotes for dates. \nc) Adjust the data format. Click Update Now to load data. Find STATE > click # > Geographic Role > State/Province.\nNote: if students forget to adjust the data format for STATE, they won\u2019t be able to generate geographic maps. \nd) Create a geographic map to analyze the discount level of states: \n\u2022 Click the tab New Worksheet next to the Data Source. Double click State > double click DISCOUNT_RATE > go to Show Me > select maps. In the \nMarks section, click the down arrow next to SUM(DISCOUNT_RATE) > click Measure (SUM) > select Average. The adjusted mark for color is \nshown as follows:\nFig. B3. Icon for average discount rates.\n\u2022 Add average discount rates as labels.\n\u2022 Click the down arrow in the upper right corner of the color description box > click Edit Colors\u2026 > adjust the center to 0.05. Add TRAN_DATE to \nFilters > click Months > click Next > select December > click Appy > click OK.\n\u2022 Rename the worksheet as DISCOUNT. Take a screenshot. \ne) Create a word cloud to analyze the total sales of cosmetic brands.\nY. Shan and V.J. Richardson                                                                                                                                                                                                                 \nJournal of Accounting Education 72 (2025) 100978 \n13 \n",
+      "image_count": 2,
+      "images": [
+        {
+          "index": 0,
+          "rect": "Rect(70.07240295410156, 123.15899658203125, 525.2564086914062, 404.3909912109375)"
+        },
+        {
+          "index": 1,
+          "rect": "Rect(243.3260040283203, 625.4989624023438, 351.9020080566406, 644.93896484375)"
+        }
+      ]
+    },
+    {
+      "page": 14,
+      "text": "\u2022 Click the tab New Worksheet. Double click TRAN_AMT and DEPT_DESC > click Show Me > Select Packed bubbles > in the Marks section, click the \ndrop-down list, and select Text as follows:\nFig. B4. The marks section in Tableau.\n\u2022 Add STATE to Pages. In the description table for Pages, find the state of Florida.\n\u2022 Rename the worksheet as SALES. Take a screenshot. \nf) Create a graph for box-and-whisker plots and analyze the distribution of the discount rate of different states per weekday.\n\u2022 Click the tab New Worksheet. Add TRAN_DATE to Columns > click the down arrow next to YEAR(TRAN_DATE) > click more > select Weekday. \nAdd DISCOUNT_RATE to Rows > adjust SUM(DISCOUNT_RATE) to AVG(DISCOUNT_RATE). Drag State to the Marks section and drop above Label. \nGo to Show Me > select box-and-whisker plots.\n\u2022 Click the tab Analytics next to Data as follows:\nFig. B5. The marks section in Tableau.\nDouble click Reference Line > click the drop-down list next to value > select Create a New Parameter\u2026 > Enter Target under Name > select Entire \nTable > Adjust Current value to 0.05 > click OK. \n\u2022 Rename the worksheet as DISC_STATE_WEEKDAY. Take a screenshot.\n\u2022 Replicate your analysis and replace DISCOUNT_RATE with TRAN_AMT.\n\u2022 Rename the worksheet as SALES_STATE_WEEKDAY. Take a screenshot. \ng) Clustering analysis.\n\u2022 Click the tab New Worksheet. Add TRAN_AMT to Columns > add PROFIT_MARGIN to Rows > adjust the automatically generated SUM(PROF\u00ad\nIT_MARGIN) to AVG(PROFIT_MARGIN) > Drag DEPT_DESC to the Marks section and drop above Text.\n\u2022 Click the tab Analytics next to Data > double click Cluster > enter 5 under Number of Clusters.\n\u2022 Find the brand AROMATIQUE > click it > click Exclude to exclude it from your analysis.\n\u2022 Rename the worksheet as BRAND_CLUSTER, Take a screenshot. \nh) Trend analysis.\n\u2022 Click the tab New Worksheet. Create calculated fields to represent the sales in 2014, 2015, and 2016.\nY. Shan and V.J. Richardson                                                                                                                                                                                                                 \nJournal of Accounting Education 72 (2025) 100978 \n14 \n",
+      "image_count": 2,
+      "images": [
+        {
+          "index": 0,
+          "rect": "Rect(227.79200744628906, 177.50099182128906, 367.47198486328125, 278.5889892578125)"
+        },
+        {
+          "index": 1,
+          "rect": "Rect(227.28199768066406, 395.6239929199219, 367.9700012207031, 484.3280029296875)"
+        }
+      ]
+    },
+    {
+      "page": 15,
+      "text": "Fig. B6. Sales in 2014.\n\u2022 Create calculated fields for sales growth rates of 2015 and 2016.\nFig. B7. Sales growth rate of 2015.\n\u2022 Add \u201cSale growth rate 2014 to 2015\u201d and \u201cSale growth rate 2015 to 2016\u201d to Rows. Add \u201cTRAN_DATE\u201d to Columns, then click the down arrow on \nits icon and select \u201cMonth\u201d.\n\u2022 Go to \u201cShow Me\u201d, then select \u201cdual lines\u201d. \ni) Return rate analysis.\n\u2022 Create a calculated field to represent return transactions.\nY. Shan and V.J. Richardson                                                                                                                                                                                                                 \nJournal of Accounting Education 72 (2025) 100978 \n15 \n",
+      "image_count": 2,
+      "images": [
+        {
+          "index": 0,
+          "rect": "Rect(132.3209991455078, 122.05799865722656, 462.94500732421875, 320.2019958496094)"
+        },
+        {
+          "index": 1,
+          "rect": "Rect(116.10700225830078, 377.0559997558594, 479.1309814453125, 586.4320068359375)"
+        }
+      ]
+    },
+    {
+      "page": 16,
+      "text": "Fig. B8. Return transactions.\n\u2022 Create a calculated field for the return rate.\nFig. B9. Return transactions.\nNote: for graduate courses, instructors can require students to write a query to pivo column TRAN_TYPE. Here is an example of the query: \nSELECT SKU, STATE, TENDER_TYPE, TRAN_DATE, [P], [R]\nFROM\n(SELECT SKU.SKU, STATE, TENDER_TYPE, TRAN_DATE, TRAN_TYPE, TRAN_AMT\nFROM TRANSACT\nINNER JOIN STORE\nON TRANSACT.STORE=STORE.STORE\nINNER JOIN SKU\nON TRANSACT.SKU=SKU.SKU\nY. Shan and V.J. Richardson                                                                                                                                                                                                                 \nJournal of Accounting Education 72 (2025) 100978 \n16 \n",
+      "image_count": 2,
+      "images": [
+        {
+          "index": 0,
+          "rect": "Rect(121.60600280761719, 119.1729736328125, 473.68597412109375, 334.8849792480469)"
+        },
+        {
+          "index": 1,
+          "rect": "Rect(124.3280029296875, 391.7859802246094, 470.9360046386719, 603.6099853515625)"
+        }
+      ]
+    },
+    {
+      "page": 17,
+      "text": "INNER JOIN DEPARTMENT\nON SKU.DEPT = DEPARTMENT.DEPT\nWHERE DEPTCENT_DESC = \u2019COSMETICS\u2019) AS SRC PIVOT\n(SUM(TRAN_AMT) FOR TRAN_TYPE IN ([P],[R])) AS PVT \n\u2022 Add \u201cRETURN RATE\u201d to Rows. Add \u201cTRAN_DATE\u201d to Columns, then click the down arrow on its icon and select \u201cMonth\u201d.\n\u2022 Create a parameter. \nName: Industry Average Return Rate.\nDate type: Float.\nCurrent value: 0.0521.\nDisplay format: Automatic.\nValue when workbook opens: Current value.\nAllowable values: All.\n\u2022 Go to the tab \u201cAnalytics\u201d. Drag \u201cReference Line\u201d to Canvas > select \u201cTable\u201d. Next to Value, select \u201cIndustry Average Return Rate\u201d.\n\u2022 Drag \u201cTRAN_DATE\u201d to Pages. \nj) Create a dashboard.\n\u2022 Click the tab New Dashboard next to New Worksheet.\n\u2022 Select the sheets you created (including the geographic map) and drag them to the canvas.\n\u2022 Click the geographic map > click the filter icon in the upper right corner > click Florida.\n\u2022 Take a screenshot \nk) Create a story.\n\u2022 Click the tab New Story next to New Dashboard next.\n\u2022 Drag the sheets you selected to canvas. Add captions for each sheet and highlight the key information.\n\u2022 Take a screenshot\nAppendix C. Example of the analysis report\nStudent Name:\nDate:\nThis analysis report analyzes the cosmetic department\u2019s sales, discount level, profit margin and brand clusters for the period between Jan 1st, 2014 \nand Oct 17th, 2016. \n(a) (i) Analysis of the discount level of states during the Christmas Season (December 2015 to January 2016):\nFig. C1. Geographic map of state average discount rate for December 2015.\nY. Shan and V.J. Richardson                                                                                                                                                                                                                 \nJournal of Accounting Education 72 (2025) 100978 \n17 \n",
+      "image_count": 1,
+      "images": [
+        {
+          "index": 0,
+          "rect": "Rect(63.552799224853516, 405.6719970703125, 531.6968383789062, 687.9119873046875)"
+        }
+      ]
+    },
+    {
+      "page": 18,
+      "text": "(ii) The geographic map above displays the state average discount rates of the cosmetic department for December 2015. It is noteworthy that the \noverall discount rate was relatively low in December, and the majority of states met the target discount rate of 5 % for that month. These states \ninclude Montana, Wyoming, Nevada, Utah, Colorado, Kansas, Kentucky, Arizona, New Mexico, Texas, Louisiana, Mississippi, Alabama, and \nFlorida.\nFig. C2. Geographic map of state average discount rate for January 2016.\n(iii) As shown in Fig. C.2, the majority of states offered more attractive discounts in January 2016, with only three states (Oklahoma, Arkansas, and \nLouisiana) meeting the target. Of note, the discount rate of Iowa experienced a significant jump, rising from 9.63 % to 19.03 %. \n(iv) Treemaps may also be a good option.\n(v) Stores in Iowa often offer higher discount rates, but their sales are usually much lower than stores in Texas. Based on the current results, \nhigher discount rates are not necessarily associated with higher sales.\n(vi) Arkansas often offered the lowest average discount rates (3.3 %) in December 2015, but their average profit margin is relatively low at 15.5 \n%. In comparison, the average discount rate of stores in Ohio is 6.6 % in the same month, but their average profit margin is 34.5 %. Managers in \nArkansas can consider consulting the managers in Ohio and see how Ohio reduces its operating expenses.\n(vii) Generally, the discount rates are lower in February, May, and October. Discount rates usually are higher during the Christmas Season.\nb) (i) Analysis of sales of cosmetic brands:\nY. Shan and V.J. Richardson                                                                                                                                                                                                                 \nJournal of Accounting Education 72 (2025) 100978 \n18 \n",
+      "image_count": 1,
+      "images": [
+        {
+          "index": 0,
+          "rect": "Rect(63.60940170288086, 212.5789794921875, 531.609375, 496.4029846191406)"
+        }
+      ]
+    },
+    {
+      "page": 19,
+      "text": "Fig. C3. Word cloud: total sales of cosmetic brands in Florida.\n(2) As shown in Fig. C.3, the most popular cosmetic brands in Florida are Clinique, Estee Lauder, Lancome, Mac, and Chanel Women. The sales of \nthese five brands significantly surpass those of other brands. Additionally, among these top five, the sales of the top three brands (Clinique, Estee \nLauder, Lancome) are notably higher compared to the other two.\nFig. C4. Word cloud: total sales of cosmetic brands in Louisiana.\nAs shown in Fig. C.4, the most popular cosmetic brands in Louisiana are Clinique, Estee Lauder, Lancome, Mac, and Chanel Women. It\u2019s worth \nnoting that the top 5 popular brands in Louisiana are the same as those in Florida. However, the sales difference between the top 5 brands and other \nbrands is smaller in Louisiana. Additionally, Chanel women\u2019s products are less popular in Louisiana compared to Florida. \nY. Shan and V.J. Richardson                                                                                                                                                                                                                 \nJournal of Accounting Education 72 (2025) 100978 \n19 \n",
+      "image_count": 2,
+      "images": [
+        {
+          "index": 0,
+          "rect": "Rect(88.10079956054688, 58.41899108886719, 507.14080810546875, 312.43499755859375)"
+        },
+        {
+          "index": 1,
+          "rect": "Rect(84.07559967041016, 390.26898193359375, 511.1795959472656, 651.6289672851562)"
+        }
+      ]
+    },
+    {
+      "page": 20,
+      "text": "(iii) Highlight tables and tree maps can also be used to present the sales of different brands.\n(iv) Est\u00b4ee Lauder, Lanc\u02c6ome, and Clinique are generally the most popular brands across different states. These three brands typically account for a \nsignificant portion of sales in most states. Managers should ensure adequate stock levels for these brands. Additionally, MAC is also popular in \nmany states. Other states might consider offering promotional activities, such as providing trial samples of Mac products to attract more customers \nand boost sales.\n(v) The top three popular cosmetic brands in Arkansas are Estee Lauder, Lancome and Clinique. First, these three brands are generally popular, \nwell-known brands in the U.S. Second, the discount rates of these three brands are generally low in Arkansas, showing customers are not attracted \nby the high discount rates.\n(vi) A word cloud can also be used to analyze the sales and profit margins of different brands. Additionally, it can present sales, discount rates, or \nprofit margins for various tender types, regions, or departments.\nc) (i) Analysis of the distribution of discount rates of states across weekdays.\nFig. C5. Box-and-Whisker plots: state average discount rates per weekday.\n(ii) Fig. C.5 illustrates the distribution of state average discount rates per weekday. It reveals that the majority of states meet the target of 5 % \nexcluding Iowa, with fluctuations mostly ranging between 0.7 % and 3.7 %. However, on Thursdays and Fridays, the discount rates are notably \nhigher with a wider dispersion. \n(iii) The average discount rates in Iowa are consistently higher than in other states. Conversely, the average discount rates in Arkansas and for \nonline sales are lower than those in other states.\nY. Shan and V.J. Richardson                                                                                                                                                                                                                 \nJournal of Accounting Education 72 (2025) 100978 \n20 \n",
+      "image_count": 1,
+      "images": [
+        {
+          "index": 0,
+          "rect": "Rect(105.73200225830078, 282.9889831542969, 489.49200439453125, 514.8289794921875)"
+        }
+      ]
+    },
+    {
+      "page": 21,
+      "text": "Fig. C6. Box-and-whisker plots: state total sales per weekday.\n(iv) Fig. C.6 displays the distribution of state total sales per weekday. It is interesting to note that despite the significantly higher discount rates \noffered on Thursdays and Fridays, it did not result in higher sales on Thursdays. Surprisingly, the sales on Saturdays are noticeably higher with \nlower discount rates. Moreover, there seems to be no apparent cause-and-effect relationship between discount rates and total sales. \n(v) While many stores offer higher discounts on Thursdays, sales on these days are usually lower than on Fridays and Saturdays. This may be \ndue to a higher volume of customers on Saturday. In this case, managers might consider increasing the discount rates on Thursdays to boost the \nprofit margin and implementing promotional activities on Saturdays to further enhance sales.\nd) (i) Clustering Analysis.\nY. Shan and V.J. Richardson                                                                                                                                                                                                                 \nJournal of Accounting Education 72 (2025) 100978 \n21 \n",
+      "image_count": 1,
+      "images": [
+        {
+          "index": 0,
+          "rect": "Rect(63.60940170288086, 187.24798583984375, 531.609375, 468.6239929199219)"
+        }
+      ]
+    },
+    {
+      "page": 22,
+      "text": "Fig. C7. Clustering analysis: brand clusters.\n(ii) Fig. C.7 presents the clustering analysis of cosmetic brands based on the average profit margins and total sales. There are four clusters \u2013 Profit \nWinners (cluster 1), Sales Winners (cluster 2), Popular Brands (cluster 3), and Bad Performance (cluster 4).\nFig. C8. Clustering analysis: brand clusters (excluding the outlier).\nY. Shan and V.J. Richardson                                                                                                                                                                                                                 \nJournal of Accounting Education 72 (2025) 100978 \n22 \n",
+      "image_count": 2,
+      "images": [
+        {
+          "index": 0,
+          "rect": "Rect(74.43779754638672, 58.4229736328125, 520.8377685546875, 333.7509765625)"
+        },
+        {
+          "index": 1,
+          "rect": "Rect(71.14959716796875, 401.04998779296875, 524.173583984375, 674.3619995117188)"
+        }
+      ]
+    },
+    {
+      "page": 23,
+      "text": "(iii) The profit margin of Carol\u2019 Daughter is abnormally low. Fig. C.8 presents the same analysis, excluding the outlier Carol\u2019 Daughter. \n(iv) Cluster 1: Profit Winners, are highly profitable but experience low sales. To attract new customers, our company could consider offering \ndiscounts or providing free samples of these products. Additionally, we can send free samples of these products to customers who purchase \nitems from the Sales Winners cluster.\nCluster 2: Sales winners are the most popular brands. To further capitalize on their popularity, our company can strategically place these products \nin prominent store locations or feature them prominently on the cosmetic products\u2019 webpage to attract a larger customer base. Given the mid-level \nprofit margin, instead of offering discounts, our company could consider providing more generous gifts to incentivize purchases. \n(v) We can also conduct cluster analysis to analyze customers\u2019 behaviors. We can better understand the demands of different groups of customers to \nprovide customized services.\ne) (i) Trend analysis of sales growth rate.\nFig. C9. Trend analysis of sales growth rate.\n(ii) Sales fluctuated significantly between January and August 2015, then increased rapidly after August until the end of the year. Although the \nsales growth rates decreased between January and August 2016, the decline was smoother compared to 2015.\n(iii) Since we only have partial data for October 2016 and missing data for November and December 2016, we can only compare the sales growth \nrate between January and October for 2015 and 2016. We observed that sales generally decreased from January to August in both 2015 and 2016. \nThe sales growth rates dropped sharply in March and August 2015, but not in 2016.\n(iv) The sales growth rates dropped sharply in March and August 2015, but not in 2016. These two declines in 2015 followed sales increases in \nFebruary and June. The drops may have been caused by the cessation of promotional activities offered in February and June 2015. This issue \nappears to have been addressed in 2016.\n(v) Based on the sales growth rates for 2015 and 2016, we can predict that the sales growth rate for February 2017 may be close to 20 %.\n(vi) The line chart is especially good at discovering trends.\n(vii) We can apply trend analysis to examine the trends in sales volume, profit growth, and other financial data.\n(viii) We can use the word cloud to compare the sales growth rates of different brands. Additionally, we can use the geographic map to compare the \nsales growth rate of different states.\nf) (i) Return rate analysis.\nY. Shan and V.J. Richardson                                                                                                                                                                                                                 \nJournal of Accounting Education 72 (2025) 100978 \n23 \n",
+      "image_count": 1,
+      "images": [
+        {
+          "index": 0,
+          "rect": "Rect(75.8551025390625, 248.05096435546875, 519.3751220703125, 518.626953125)"
+        }
+      ]
+    },
+    {
+      "page": 24,
+      "text": "Fig. C10. Return rate analysis.\n(ii) Dillard\u2019s cosmetic products\u2019 return rates are lower than the industry average in most months, excluding January. This is better than I expected. \nThe higher return rates in January are understandable, as it follows Christmas and many customers may need to return or exchange gifts.\n(iii) The return rates remain stable, ranging from 3 % to 4 % between February and October. However, as the discount and holiday seasons arrive, \nthe return rates increase and then drop again in February.\n(iv) The following Fig. C.11 presents the return rates of different types of payments. It showed the return rates of gift card transactions are much \nhigher than other types of payments.\nY. Shan and V.J. Richardson                                                                                                                                                                                                                 \nJournal of Accounting Education 72 (2025) 100978 \n24 \n",
+      "image_count": 1,
+      "images": [
+        {
+          "index": 0,
+          "rect": "Rect(66.27400207519531, 195.73397827148438, 528.9459838867188, 478.2619934082031)"
+        }
+      ]
+    },
+    {
+      "page": 25,
+      "text": "Fig. C11. Return rate by tender types.\nY. Shan and V.J. Richardson                                                                                                                                                                                                                 \nJournal of Accounting Education 72 (2025) 100978 \n25 \n",
+      "image_count": 1,
+      "images": [
+        {
+          "index": 0,
+          "rect": "Rect(66.21730041503906, 218.41299438476562, 529.0333251953125, 518.7969970703125)"
+        }
+      ]
+    },
+    {
+      "page": 26,
+      "text": "f) Dashboard.\nFig. C12. Dashboard.\nFig. C.12 presents the dashboard analysis for Texas, utilizing the geographic map as a filter. The most popular cosmetic brands in Texas are \nClinique, Estee Lauder, Lancome, Mac, and Chanel for Women. Notably, Chanel for Women boasts a higher profit margin compared to other popular \nbrands, and Estee Lauder is particularly favored in Texas. Texas stores often offer substantial discounts on Fridays, with rates about three times higher \nthan the average discount rate. Previous analysis indicates that sales are likely to stay at a similar level on Fridays, despite the stores offering greater \ndiscounts on that day. This implies that providing larger discounts may not significantly boost sales but could potentially impact customers\u2019 perception \nof product pricing.\nAs a result, our company may want to consider implementing other promotional strategies instead of relying solely on low discount offers. By \nexploring alternative approaches, we can maintain customers\u2019 confidence in product pricing while finding effective ways to drive sales and enhance \noverall customer satisfaction. \nY. Shan and V.J. Richardson                                                                                                                                                                                                                 \nJournal of Accounting Education 72 (2025) 100978 \n26 \n",
+      "image_count": 1,
+      "images": [
+        {
+          "index": 0,
+          "rect": "Rect(63.77949905395508, 147.2030029296875, 531.4915161132812, 518.0029907226562)"
+        }
+      ]
+    },
+    {
+      "page": 27,
+      "text": "g) Story.\nExample of the story created in Tableau.\nFig. C13. Example of the story.\nData availability\nData will be made available on request.\nReferences\nAssociation to Advance Collegiate Schools of Business (AACSB) (2018). AACSB \nAccounting Accreditation Standards. Available at: https://www.aacsb.edu/accredita \ntion/standards/accounting.\nAICPA (2023a). Accounting Is STEM Overview. Available at: https://www.dropbox. \ncom/scl/fo/oe09etd2dkr0c21vopwbl/h/Advocacy%20Resources?dl=0&previe \nw=Accounting+Is+STEM+Overview.pdf&subfolder_nav_tracking=1.\nAICPA (2023b). AICPA poll reveals skills accounting firms seek in new graduate hires. \nAvailable at: https://www.aicpa-cima.com/professional-insights/article/aicpa-poll \n-reveals-skills-accounting-firms-seek-in-new-graduate-hires.\nAngelo, B., Ayres, S., & Stanfield, J. (2018). Power from the ground up: Using data \nanalytics in capital budgeting. Journal of Accounting Education, 42, 27\u201339.\nThe American Institute of CPAs (AIPCA) (2022). Nomination of accounting and related \nCIP codes for inclusion in DHS STEM designated degree program list. Available at: \nhttps://nasba.org/wp-content/uploads/2022/08/2022-AICPA-Accounting-P \nrofession-STEM-Nomination.pdf.\nCheng, C., Jones, L. C., & Mohapatra, P. (2024). Learning text analytics: An analysis of \nMD&A disclosures during the pandemic. Issues in Accounting Education, 1\u20139.\nCunningham, L. M., & Stein, S. E. (2018). Using visualization software in the audit of \nrevenue transactions to identify anomalies. Issues in Accounting Education, 33(4), \n33\u201346. https://doi.org/10.2308/iace-52146\nErnst & Young (2017). Providing free, leading-edge resources to prepare students for the \nfast-changing, global marketplace. Available at: https://www.ey.com/publicatio \nn/vwluassets/ey_academic_resource_Center/$File/eyarC- brochure.pdf. Accessed on \nAugust 11, 2024.\nFay, R., & Negangard, E. M. (2017). Manual journal entry testing: Data analytics and the \nrisk of fraud. Journal of Accounting Education, 38, 37\u201349.\nGaras, S., & Wright, S. L. (2024). A data analytics case study analyzing IRS SOI migration \ndata using no code, low code technologies. Journal of Accounting Education, 66, \nArticle 100885.\nHoelscher, J., & Mortimer, A. (2018). Using Tableau to visualize data and drive decision- \nmaking. Journal of Accounting Education, 44(September), 49\u201359. https://doi.org/ \n10.1016/j.jaccedu.2018.05.002\nIgou, A., & Coe, M. (2016). Vistabeans coffee shop data analytics teaching case. Journal of \nAccounting Education, 36, 75\u201386.\nJanvrin, D. J., Raschke, R. L., & Dilla, W. N. (2014). Making sense of complex data using \ninteractive data visualization. Journal of Accounting Education, 32(4), 31\u201348. https:// \ndoi.org/10.1016/j.jaccedu.2014.09.003\nKokina, J., Pachamanova, D., & Corbett, A. (2017). The role of data visualization and \nanalytics in performance management: Guiding entrepreneurial growth decisions. \nJournal of Accounting Education, 38, 50\u201362. https://doi.org/10.1016/j. \njaccedu.2016.12.005\nLambert, S. L., Holladay, J., & Drum, D. M. (2016). International AC: An education case \non continuous monitoring SQL server data with ODBC-linked tables in Microsoft \nAccess. Journal of Emerging Technologies, 13(2), 195\u2013213. Doi: 10.23.\nLawson, J., & Street, D. A. (2021). Detecting dirty data using SQL: Rigorous house \ninsurance case. Journal of Accounting Education., 55, 100714\u2013100725. https://doi. \norg/10.1016/j.jaccedu.2021.100714\nY. Shan and V.J. Richardson                                                                                                                                                                                                                 \nJournal of Accounting Education 72 (2025) 100978 \n27 \n",
+      "image_count": 1,
+      "images": [
+        {
+          "index": 0,
+          "rect": "Rect(63.77949905395508, 90.32199096679688, 531.4915161132812, 411.8739929199219)"
+        }
+      ]
+    },
+    {
+      "page": 28,
+      "text": "Lee, L., & Casterella, G. (2023). A mental approach to teaching database querying skills \nwith SQL and Alteryx. Journal of Accounting Education, 64, 100858\u2013100871. https:// \ndoi.org/10.1016/j.jaccedu.2023.100858\nLibby, T., Schwebke, J. M., & Goldwater, P. M. (2022). Using data analytics to evaluate \nthe drivers of revenue: An introductory case study using Microsoft Power Pivot and \nPower BI. Issues in Accounting Education, 37(4), 97\u2013105.\nMurthy, U. S. (2010). Tampa electronics: An instructional case in computer-assisted \nfraud examination. Issues in Accounting Education, 25(3), 547\u2013552.\nParlier, J., & Lee, L. (2023). Inventory analytics: A teaching case using excel and Alteryx. \nJournal of Accounting Education, 63, Article 100848.\nPresley, T. J. (2019). A risk based approach to large datasets: Analysis of time series data \nfor a large merchandising firm. Journal of Accounting Education, 49, Article 100639.\nNickell, E. B., Schwebke, J., & Goldwater, P. (2023). An introductory audit data analytics \ncase study: Using Microsoft Power BI and Benford\u2019s Law to detect accounting \nirregularities. Journal of Accounting Education, 64, Article 100855.\nRichardson, V. J., Teeter, V., & Terrell, K. (2023). Data analytics for accounting (3rd ed.). \nNew York: McGraw Hill. \nUSPS. 2024. Analyzing the Returns Landscape. Available at: https://www.uspsdelivers. \ncom/analyzing-the-returns-landscape/.\nWeirich, T. R., Tschakert, N., & Kozlowski, S. (2018). Teaching data analytics skills in \nauditing classes using Tableau. Journal of Emerging Technologies in Accounting, 15(2), \n137\u2013150. https://doi.org/10.2308/jeta-52264\nY. Shan and V.J. Richardson                                                                                                                                                                                                                 \nJournal of Accounting Education 72 (2025) 100978 \n28 \n",
+      "image_count": 0,
+      "images": []
+    }
+  ]
+}

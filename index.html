@@ -3,22 +3,24 @@
 <head>
     <meta charset="UTF-8">
     <meta name="viewport" content="width=device-width, initial-scale=1.0">
-    <title>Data Analytics Teaching Case Study</title>
+    <title>Dillard's Case: Data Analytics Teaching Case Study</title>
     <link rel="stylesheet" href="styles.css">
     <link href="https://fonts.googleapis.com/css2?family=Inter:wght@300;400;500;600;700&display=swap" rel="stylesheet">
     <link rel="stylesheet" href="https://cdnjs.cloudflare.com/ajax/libs/font-awesome/6.0.0/css/all.min.css">
+    <link rel="stylesheet" href="https://cdnjs.cloudflare.com/ajax/libs/prism/1.29.0/themes/prism.min.css">
 </head>
 <body>
     <header class="hero-section">
         <div class="container">
             <div class="hero-content">
-                <h1 class="main-title">Querying and Visualizing Financial Data</h1>
-                <p class="subtitle">A Teaching Case Study Applying STEM Skills</p>
+                <h1 class="main-title">Dillard's Case Study</h1>
+                <p class="subtitle">Querying and Visualizing Financial Data: A Teaching Case Applying STEM Skills</p>
                 <div class="keywords-container">
+                    <span class="keyword-tag">SQL Queries</span>
+                    <span class="keyword-tag">Tableau Visualizations</span>
                     <span class="keyword-tag">Data Analytics</span>
-                    <span class="keyword-tag">SQL</span>
-                    <span class="keyword-tag">Tableau</span>
-                    <span class="keyword-tag">Data Visualization</span>
+                    <span class="keyword-tag">Financial Analysis</span>
+                    <span class="keyword-tag">Business Intelligence</span>
                 </div>
             </div>
         </div>
@@ -27,176 +29,596 @@
     <nav class="navigation">
         <div class="container">
             <ul class="nav-menu">
-                <li><a href="#overview" class="nav-link active">Overview</a></li>
-                <li><a href="#case-study" class="nav-link">Case Study</a></li>
-                <li><a href="#objectives" class="nav-link">Objectives</a></li>
+                <li><a href="#introduction" class="nav-link active">Introduction</a></li>
+                <li><a href="#research-objective" class="nav-link">Research Objective</a></li>
+                <li><a href="#case-description" class="nav-link">Case Description</a></li>
+                <li><a href="#methodology" class="nav-link">Methodology</a></li>
                 <li><a href="#deliverables" class="nav-link">Deliverables</a></li>
-                <li><a href="#visualizations" class="nav-link">Visualizations</a></li>
+                <li><a href="#learning-objectives" class="nav-link">Learning Objectives</a></li>
+                <li><a href="#conclusion" class="nav-link">Conclusion</a></li>
             </ul>
         </div>
     </nav>
 
     <main class="main-content">
-        <section id="overview" class="section">
+        <!-- Section 1: Introduction -->
+        <section id="introduction" class="section">
             <div class="container">
-                <h2 class="section-title">Overview</h2>
+                <h2 class="section-title">🟢 Introduction</h2>
                 <div class="content-card">
-                    <p class="abstract">
-                        Advanced technologies have dramatically changed the ways that accounting professionals collect, analyze and interpret data. Embracing the prevalent implementation of advanced technologies, accounting is moving towards a STEM discipline and requesting accounting students be equipped with emerging technologies.
-                    </p>
-                    <p class="abstract">
-                        In response to the increasing requirements from the Association to Advance Collegiate Schools of Business (AACSB) and CPA exams on students' data analytics skills, this case provides you an opportunity to complete the data analytics process by analyzing Dillard's data using Structured Query Language (SQL) and Tableau.
-                    </p>
+                    <div class="intro-grid">
+                        <div class="intro-text">
+                            <p class="lead-text">
+                                The paper discusses a learning case called <strong>Dillard's Case</strong>, which uses real data from a U.S. retail chain called Dillard's. The main idea is to provide a hands-on learning experience for analyzing financial data using modern tools like SQL and Tableau.
+                            </p>
+                            <ul class="bullet-list">
+                                <li>Uses <strong>real retail data</strong> from Dillard's department store chain</li>
+                                <li>Provides <strong>hands-on experience</strong> with SQL database queries</li>
+                                <li>Teaches <strong>Tableau visualization</strong> techniques for business intelligence</li>
+                                <li>Bridges the gap between <strong>accounting theory and practical data skills</strong></li>
+                                <li>Prepares students for <strong>data-driven job market</strong> demands</li>
+                            </ul>
+                        </div>
+                        <div class="intro-image">
+                            <img src="page_1_img_1.png" alt="Dillard's Case Study Overview" class="case-image">
+                        </div>
+                    </div>
+                    <div class="highlight-box">
+                        <h3><i class="fas fa-target"></i> Core Purpose</h3>
+                        <p>The paper is designed to help accounting students gain data analysis skills that are now highly demanded in the job market, since today's companies want accountants who not only understand numbers but can also <strong>extract data, analyze it, and present it clearly to management</strong>.</p>
+                    </div>
                 </div>
             </div>
         </section>
 
-        <section id="case-study" class="section bg-light">
+        <!-- Section 2: Research Objective -->
+        <section id="research-objective" class="section bg-light">
             <div class="container">
-                <h2 class="section-title">The Case Study</h2>
+                <h2 class="section-title">🟢 Research Objective</h2>
                 <div class="content-card">
-                    <h3 class="subsection-title">About Dillard's Inc.</h3>
-                    <ul class="bullet-list">
-                        <li>High-end department store chain based in Little Rock, Arkansas</li>
-                        <li>Offers one-stop shopping for clothes, shoes, bags, accessories, home and beauty products</li>
-                        <li>Founded by William T Dillard in 1938</li>
-                        <li>Expanded through acquisition in the 1960s</li>
-                        <li>Went public on the American Stock Exchange in 1969</li>
-                        <li>Currently operates approximately 282 stores across 29 states</li>
-                        <li>Texas holds the highest number of Dillard's stores with 57 establishments</li>
-                    </ul>
-                </div>
-            </div>
-        </section>
-
-        <section id="objectives" class="section">
-            <div class="container">
-                <h2 class="section-title">Learning Objectives</h2>
-                <div class="objectives-grid">
-                    <div class="objective-card">
-                        <div class="objective-icon">
-                            <i class="fas fa-database"></i>
-                        </div>
-                        <h3>SQL Data Extraction</h3>
-                        <p>Learn to write SQL queries to extract transaction data including amounts, prices, dates, and department information from Dillard's database.</p>
-                    </div>
-                    <div class="objective-card">
-                        <div class="objective-icon">
-                            <i class="fas fa-chart-bar"></i>
-                        </div>
-                        <h3>Data Visualization</h3>
-                        <p>Create compelling visualizations using Tableau including geographic maps, word clouds, and box-and-whisker plots.</p>
-                    </div>
-                    <div class="objective-card">
-                        <div class="objective-icon">
-                            <i class="fas fa-analytics"></i>
-                        </div>
-                        <h3>Analytics Process</h3>
-                        <p>Complete the full data analytics process from extraction to interpretation and communication of results.</p>
-                    </div>
-                    <div class="objective-card">
-                        <div class="objective-icon">
-                            <i class="fas fa-users"></i>
-                        </div>
-                        <h3>Clustering Analysis</h3>
-                        <p>Perform clustering analysis to identify natural groups of cosmetic brands based on profit margins and sales data.</p>
-                    </div>
-                </div>
-            </div>
-        </section>
-
-        <section id="deliverables" class="section bg-light">
-            <div class="container">
-                <h2 class="section-title">Key Deliverables</h2>
-                <div class="content-card">
-                    <h3 class="subsection-title">Required Outputs</h3>
-                    <ul class="bullet-list">
-                        <li><strong>SQL Queries:</strong> Extract transaction amounts, original prices, sale prices, transaction dates, costs, department descriptions, states, and transaction types</li>
-                        <li><strong>Geographic Analysis:</strong> Create maps showing average discount rates by state with 5% target rate</li>
-                        <li><strong>ETL Process:</strong> Extract, Transform, and Load data for analysis</li>
-                        <li><strong>Visualization Graphs:</strong> Develop comprehensive visual representations of the data</li>
-                        <li><strong>Interactive Dashboard:</strong> Build dashboard with word cloud filters</li>
-                        <li><strong>Analysis Report:</strong> Comprehensive report with key findings and insights</li>
-                        <li><strong>Presentation:</strong> Executive presentation for CEO and senior managers</li>
-                    </ul>
-                </div>
-            </div>
-        </section>
-
-        <section id="visualizations" class="section">
-            <div class="container">
-                <h2 class="section-title">Data Visualizations</h2>
-                <div class="visualization-grid">
-                    <div class="viz-card">
-                        <div class="viz-header">
-                            <i class="fas fa-map-marked-alt"></i>
-                            <h3>Geographic Maps</h3>
-                        </div>
-                        <p>Interactive maps showing average discount rates across different states, with special focus on Christmas season analysis (December 2015 to January 2016).</p>
-                        <div class="viz-placeholder">
-                            <i class="fas fa-map"></i>
-                            <span>Geographic Visualization</span>
-                        </div>
+                    <div class="objective-header">
+                        <h3>Integration of Accounting with Data Analytics</h3>
+                        <p class="lead-text">The main goal of the paper is to integrate accounting with data analytics skills, and to teach students how to extract, analyze, and visualize data in the form of interactive reports and dashboards.</p>
                     </div>
                     
-                    <div class="viz-card">
-                        <div class="viz-header">
-                            <i class="fas fa-cloud"></i>
-                            <h3>Word Clouds</h3>
+                    <div class="integration-diagram">
+                        <div class="discipline-card">
+                            <i class="fas fa-calculator"></i>
+                            <h4>Accounting</h4>
+                            <p>Financial analysis, profit margins, cost accounting</p>
                         </div>
-                        <p>Visual representation of total sales for each cosmetic brand, with size indicating sales volume and importance.</p>
-                        <div class="viz-placeholder">
-                            <i class="fas fa-font"></i>
-                            <span>Word Cloud Visualization</span>
+                        <div class="plus-sign">+</div>
+                        <div class="discipline-card">
+                            <i class="fas fa-code"></i>
+                            <h4>Computer Science</h4>
+                            <p>SQL programming, database management, data structures</p>
                         </div>
-                    </div>
-                    
-                    <div class="viz-card">
-                        <div class="viz-header">
-                            <i class="fas fa-chart-box"></i>
-                            <h3>Box-and-Whisker Plots</h3>
-                        </div>
-                        <p>Distribution analysis showing data spread, outliers, and quartile information for various metrics across different categories.</p>
-                        <div class="viz-placeholder">
+                        <div class="plus-sign">+</div>
+                        <div class="discipline-card">
                             <i class="fas fa-chart-line"></i>
-                            <span>Box Plot Visualization</span>
+                            <h4>Data Science</h4>
+                            <p>Statistical analysis, visualization, predictive modeling</p>
                         </div>
                     </div>
                     
-                    <div class="viz-card">
-                        <div class="viz-header">
-                            <i class="fas fa-project-diagram"></i>
-                            <h3>Clustering Analysis</h3>
+                    <div class="outcome-box">
+                        <h4><i class="fas fa-graduation-cap"></i> Expected Outcome</h4>
+                        <p>Students are prepared for a job market that is increasingly <strong>data-driven and technology-focused</strong>, connecting Accounting, Computer Science, and Data Science disciplines.</p>
+                    </div>
+                </div>
+            </div>
+        </section>
+
+        <!-- Section 3: Case Description -->
+        <section id="case-description" class="section">
+            <div class="container">
+                <h2 class="section-title">🟢 Case Description (Dillard's Case)</h2>
+                <div class="content-card">
+                    <div class="scenario-box">
+                        <h3><i class="fas fa-user-tie"></i> Your Role: Manager of Cosmetics Department</h3>
+                        <p>The paper presents a practical scenario where the student acts as the <strong>Manager of the Cosmetics Department at Dillard's</strong>. The company's general manager requests a sales performance report for the Christmas season.</p>
+                    </div>
+                    
+                    <div class="requirements-grid">
+                        <div class="requirement-card">
+                            <div class="req-number">1</div>
+                            <h4>SQL Data Extraction</h4>
+                            <p>Extract sales data from the company's database using <strong>SQL queries</strong></p>
+                            <div class="tech-badge">SQL Server</div>
                         </div>
-                        <p>Natural clusters of cosmetic brands based on profit margins and total sales, revealing market segments and brand positioning.</p>
-                        <div class="viz-placeholder">
-                            <i class="fas fa-sitemap"></i>
-                            <span>Cluster Analysis</span>
+                        <div class="requirement-card">
+                            <div class="req-number">2</div>
+                            <h4>Data Preparation</h4>
+                            <p>Clean and prepare the data for analysis using <strong>ETL processes</strong></p>
+                            <div class="tech-badge">Data Cleaning</div>
+                        </div>
+                        <div class="requirement-card">
+                            <div class="req-number">3</div>
+                            <h4>Tableau Analysis</h4>
+                            <p>Analyze the data in Tableau and create <strong>visual reports</strong></p>
+                            <div class="tech-badge">Tableau Desktop</div>
+                        </div>
+                        <div class="requirement-card">
+                            <div class="req-number">4</div>
+                            <h4>Executive Reporting</h4>
+                            <p>Write a report and present the findings to <strong>management</strong></p>
+                            <div class="tech-badge">Business Communication</div>
+                        </div>
+                    </div>
+
+                    <div class="database-info">
+                        <h3><i class="fas fa-database"></i> Dillard's Database Structure</h3>
+                        <div class="db-image-container">
+                            <img src="page_2_img_1.png" alt="Database Schema" class="db-schema">
+                        </div>
+                        <div class="key-tables">
+                            <h4>Key Database Tables & Columns:</h4>
+                            <div class="table-grid">
+                                <div class="table-card">
+                                    <h5>TRANSACTIONS</h5>
+                                    <ul>
+                                        <li><code>TRAN_AMT</code> - Transaction Amount</li>
+                                        <li><code>ORIG_PRICE</code> - Original Price</li>
+                                        <li><code>SALE_PRICE</code> - Sale Price</li>
+                                        <li><code>TRAN_DATE</code> - Transaction Date</li>
+                                        <li><code>COST</code> - Product Cost</li>
+                                        <li><code>STATE</code> - Store State</li>
+                                    </ul>
+                                </div>
+                                <div class="table-card">
+                                    <h5>DEPARTMENTS</h5>
+                                    <ul>
+                                        <li><code>DEPT_DESC</code> - Department Description</li>
+                                        <li><code>DEPTCENT_DESC</code> - Department Center</li>
+                                        <li><code>TRAN_TYPE</code> - Transaction Type</li>
+                                        <li><code>TENDER_TYPE</code> - Payment Method</li>
+                                    </ul>
+                                </div>
+                            </div>
                         </div>
                     </div>
                 </div>
             </div>
         </section>
 
-        <section class="key-insights section bg-light">
+        <!-- Section 4: Methodology -->
+        <section id="methodology" class="section bg-light">
             <div class="container">
-                <h2 class="section-title">Key Insights & Analysis</h2>
-                <div class="insights-grid">
-                    <div class="insight-card">
-                        <h3>Discount Level Analysis</h3>
-                        <ul class="bullet-list">
-                            <li>Christmas season discount patterns vary significantly by state</li>
-                            <li>Iowa experienced significant discount rate jump from 9.63% to 19.03%</li>
-                            <li>Target discount rate set at 5% for comparative analysis</li>
-                        </ul>
+                <h2 class="section-title">🟢 Steps Followed by the Student</h2>
+                <div class="content-card">
+                    <div class="methodology-section">
+                        <h3><i class="fas fa-database"></i> Step 1: SQL Data Analysis</h3>
+                        <p>The student first accesses the company's database and uses SQL queries to answer specific business questions:</p>
+                        
+                        <div class="sql-questions">
+                            <div class="question-card">
+                                <h4><i class="fas fa-question-circle"></i> Which brands have the highest sales?</h4>
+                                <div class="sql-code">
+                                    <pre><code class="language-sql">SELECT BRAND, SUM(TRAN_AMT) as Total_Sales
+FROM TRANSACTIONS t
+JOIN PRODUCTS p ON t.PRODUCT_ID = p.PRODUCT_ID
+WHERE DEPT_DESC = 'COSMETICS'
+GROUP BY BRAND
+ORDER BY Total_Sales DESC;</code></pre>
+                                </div>
+                            </div>
+                            
+                            <div class="question-card">
+                                <h4><i class="fas fa-question-circle"></i> Which states offer the largest discounts?</h4>
+                                <div class="sql-code">
+                                    <pre><code class="language-sql">SELECT STATE, 
+       AVG((ORIG_PRICE - SALE_PRICE) / ORIG_PRICE * 100) as Avg_Discount_Rate
+FROM TRANSACTIONS
+WHERE ORIG_PRICE > 0
+GROUP BY STATE
+ORDER BY Avg_Discount_Rate DESC;</code></pre>
+                                </div>
+                            </div>
+                            
+                            <div class="question-card">
+                                <h4><i class="fas fa-question-circle"></i> How does the return rate compare with industry average?</h4>
+                                <div class="sql-code">
+                                    <pre><code class="language-sql">SELECT 
+    COUNT(CASE WHEN TRAN_TYPE = 'RETURN' THEN 1 END) * 100.0 / COUNT(*) as Return_Rate,
+    5.21 as Industry_Average
+FROM TRANSACTIONS
+WHERE DEPT_DESC = 'COSMETICS';</code></pre>
+                                </div>
+                            </div>
+                            
+                            <div class="question-card">
+                                <h4><i class="fas fa-question-circle"></i> How did sales change throughout the holiday season?</h4>
+                                <div class="sql-code">
+                                    <pre><code class="language-sql">SELECT 
+    DATEPART(week, TRAN_DATE) as Week_Number,
+    SUM(TRAN_AMT) as Weekly_Sales
+FROM TRANSACTIONS
+WHERE TRAN_DATE BETWEEN '2015-12-01' AND '2016-01-31'
+    AND DEPT_DESC = 'COSMETICS'
+GROUP BY DATEPART(week, TRAN_DATE)
+ORDER BY Week_Number;</code></pre>
+                                </div>
+                            </div>
+                        </div>
                     </div>
-                    <div class="insight-card">
-                        <h3>Cosmetic Brand Performance</h3>
-                        <ul class="bullet-list">
-                            <li>Natural clustering reveals distinct brand segments</li>
-                            <li>Profit margins vary significantly across brands</li>
-                            <li>Sales volume patterns indicate market preferences</li>
-                        </ul>
+
+                    <div class="methodology-section">
+                        <h3><i class="fas fa-chart-bar"></i> Step 2: Tableau Visualizations</h3>
+                        <p>After retrieving the data, the student uses Tableau to visualize results:</p>
+                        
+                        <div class="viz-gallery">
+                            <div class="viz-item">
+                                <h4><i class="fas fa-map-marked-alt"></i> Geographic Map</h4>
+                                <p>A map showing regions with the highest sales or discounts</p>
+                                <div class="viz-image">
+                                    <img src="page_3_img_1.png" alt="Geographic Sales Map" class="tableau-viz">
+                                </div>
+                            </div>
+                            
+                            <div class="viz-item">
+                                <h4><i class="fas fa-cloud"></i> Word Cloud</h4>
+                                <p>Visual representation of top-selling brands by size</p>
+                                <div class="viz-image">
+                                    <img src="page_4_img_1.png" alt="Brand Word Cloud" class="tableau-viz">
+                                </div>
+                            </div>
+                            
+                            <div class="viz-item">
+                                <h4><i class="fas fa-chart-box"></i> Box Plot</h4>
+                                <p>Distribution of discounts or prices across categories</p>
+                                <div class="viz-image">
+                                    <img src="page_5_img_1.png" alt="Price Distribution Box Plot" class="tableau-viz">
+                                </div>
+                            </div>
+                            
+                            <div class="viz-item">
+                                <h4><i class="fas fa-project-diagram"></i> Clustering Analysis</h4>
+                                <p>Groups similar-performing brands by metrics</p>
+                                <div class="viz-image">
+                                    <img src="page_15_img_1.png" alt="Brand Clustering" class="tableau-viz">
+                                </div>
+                            </div>
+                            
+                            <div class="viz-item">
+                                <h4><i class="fas fa-chart-line"></i> Trend Analysis</h4>
+                                <p>Sales changes over the holiday season timeline</p>
+                                <div class="viz-image">
+                                    <img src="page_16_img_1.png" alt="Sales Trend Chart" class="tableau-viz">
+                                </div>
+                            </div>
+                        </div>
+                    </div>
+
+                    <div class="methodology-section">
+                        <h3><i class="fas fa-presentation"></i> Step 3: Executive Dashboard</h3>
+                        <p>Finally, the student builds an interactive dashboard and presents it as if speaking to the company's general manager.</p>
+                        <div class="dashboard-preview">
+                            <img src="page_17_img_1.png" alt="Executive Dashboard" class="dashboard-image">
+                        </div>
+                    </div>
+                </div>
+            </div>
+        </section>
+
+        <!-- Section 5: Deliverables -->
+        <section id="deliverables" class="section">
+            <div class="container">
+                <h2 class="section-title">🟢 Expected Results and Deliverables</h2>
+                <div class="content-card">
+                    <p class="lead-text">The paper specifies exactly what the student must submit after completing the analysis:</p>
+                    
+                    <div class="deliverables-grid">
+                        <div class="deliverable-card">
+                            <div class="deliverable-icon">
+                                <i class="fas fa-file-alt"></i>
+                            </div>
+                            <h4>Written Analysis Report</h4>
+                            <ul class="bullet-list">
+                                <li>Summarizing key findings with <strong>Tableau screenshots</strong></li>
+                                <li>12-point Times New Roman font, single-spaced</li>
+                                <li>One-inch margins throughout</li>
+                                <li>Professional business formatting</li>
+                            </ul>
+                        </div>
+                        
+                        <div class="deliverable-card">
+                            <div class="deliverable-icon">
+                                <i class="fas fa-chart-pie"></i>
+                            </div>
+                            <h4>Tableau Workbook</h4>
+                            <ul class="bullet-list">
+                                <li>Complete <strong>.twbx file</strong> with all visualizations</li>
+                                <li>Interactive dashboards and worksheets</li>
+                                <li>Properly formatted charts and graphs</li>
+                                <li>Data source connections documented</li>
+                            </ul>
+                        </div>
+                        
+                        <div class="deliverable-card">
+                            <div class="deliverable-icon">
+                                <i class="fas fa-presentation"></i>
+                            </div>
+                            <h4>Executive Presentation</h4>
+                            <ul class="bullet-list">
+                                <li><strong>PowerPoint or Tableau Story</strong> format</li>
+                                <li>Highlighting main business insights</li>
+                                <li>Professional slide design</li>
+                                <li>Clear narrative flow</li>
+                            </ul>
+                        </div>
+                        
+                        <div class="deliverable-card">
+                            <div class="deliverable-icon">
+                                <i class="fas fa-microphone"></i>
+                            </div>
+                            <h4>Oral Presentation</h4>
+                            <ul class="bullet-list">
+                                <li>Short presentation to <strong>peers or instructor</strong></li>
+                                <li>Defend conclusions and methodology</li>
+                                <li>Answer questions about analysis</li>
+                                <li>Professional delivery skills</li>
+                            </ul>
+                        </div>
+                    </div>
+
+                    <div class="metrics-section">
+                        <h3><i class="fas fa-calculator"></i> Key Metrics and Calculations</h3>
+                        <div class="metrics-grid">
+                            <div class="metric-card">
+                                <h4>Return Rate Analysis</h4>
+                                <p>Compare with industry average of <strong>5.21%</strong></p>
+                                <div class="formula">
+                                    <code>Return Rate = (Number of Returns / Total Transactions) × 100</code>
+                                </div>
+                            </div>
+                            
+                            <div class="metric-card">
+                                <h4>Discount Percentage</h4>
+                                <p>Calculate discount rates across products and regions</p>
+                                <div class="formula">
+                                    <code>Discount % = (ORIG_PRICE - SALE_PRICE) / ORIG_PRICE × 100</code>
+                                </div>
+                            </div>
+                            
+                            <div class="metric-card">
+                                <h4>Profit Margin</h4>
+                                <p>Analyze profitability by product and department</p>
+                                <div class="formula">
+                                    <code>Profit Margin = (TRAN_AMT - COST) / TRAN_AMT × 100</code>
+                                </div>
+                            </div>
+                        </div>
+                    </div>
+
+                    <div class="sample-findings">
+                        <h3><i class="fas fa-lightbulb"></i> Sample Analysis Findings</h3>
+                        <div class="findings-grid">
+                            <div class="finding-card success">
+                                <h4>Christmas Season Performance</h4>
+                                <ul class="bullet-list">
+                                    <li>Discount rates varied significantly by state</li>
+                                    <li>Peak sales occurred in mid-December</li>
+                                    <li>Return rates stayed below industry average</li>
+                                </ul>
+                            </div>
+                            
+                            <div class="finding-card warning">
+                                <h4>Regional Variations</h4>
+                                <ul class="bullet-list">
+                                    <li>Iowa experienced discount jump from 9.63% to 19.03%</li>
+                                    <li>Texas stores showed consistent performance</li>
+                                    <li>Florida locations had higher return rates</li>
+                                </ul>
+                            </div>
+                            
+                            <div class="finding-card info">
+                                <h4>Brand Performance</h4>
+                                <ul class="bullet-list">
+                                    <li>Premium brands maintained higher margins</li>
+                                    <li>Seasonal promotions drove volume increases</li>
+                                    <li>Customer loyalty varied by brand tier</li>
+                                </ul>
+                            </div>
+                        </div>
+                    </div>
+                </div>
+            </div>
+        </section>
+
+        <!-- Section 6: Learning Objectives -->
+        <section id="learning-objectives" class="section bg-light">
+            <div class="container">
+                <h2 class="section-title">🟢 Educational Objectives</h2>
+                <div class="content-card">
+                    <p class="lead-text">The paper outlines clear learning goals that go beyond software proficiency:</p>
+                    
+                    <div class="objectives-grid">
+                        <div class="objective-card">
+                            <div class="objective-icon">
+                                <i class="fas fa-database"></i>
+                            </div>
+                            <h3>SQL Mastery</h3>
+                            <ul class="bullet-list">
+                                <li>Learn how to write <strong>complex SQL queries</strong></li>
+                                <li>Extract useful data from large databases</li>
+                                <li>Join multiple tables effectively</li>
+                                <li>Aggregate and filter data appropriately</li>
+                            </ul>
+                        </div>
+                        
+                        <div class="objective-card">
+                            <div class="objective-icon">
+                                <i class="fas fa-broom"></i>
+                            </div>
+                            <h3>Data Preparation</h3>
+                            <ul class="bullet-list">
+                                <li>Learn how to <strong>clean data</strong> and handle missing values</li>
+                                <li>Calculate key business indicators</li>
+                                <li>Transform raw data into analysis-ready format</li>
+                                <li>Validate data quality and consistency</li>
+                            </ul>
+                        </div>
+                        
+                        <div class="objective-card">
+                            <div class="objective-icon">
+                                <i class="fas fa-chart-bar"></i>
+                            </div>
+                            <h3>Tableau Proficiency</h3>
+                            <ul class="bullet-list">
+                                <li>Use Tableau to <strong>present data professionally</strong></li>
+                                <li>Create interactive dashboards</li>
+                                <li>Design effective visualizations</li>
+                                <li>Build compelling data stories</li>
+                            </ul>
+                        </div>
+                        
+                        <div class="objective-card">
+                            <div class="objective-icon">
+                                <i class="fas fa-presentation"></i>
+                            </div>
+                            <h3>Business Communication</h3>
+                            <ul class="bullet-list">
+                                <li>Learn to <strong>write analytical reports</strong></li>
+                                <li>Defend conclusions in front of management</li>
+                                <li>Present complex data simply</li>
+                                <li>Make data-driven recommendations</li>
+                            </ul>
+                        </div>
+                        
+                        <div class="objective-card">
+                            <div class="objective-icon">
+                                <i class="fas fa-brain"></i>
+                            </div>
+                            <h3>Critical Thinking</h3>
+                            <ul class="bullet-list">
+                                <li>Develop <strong>critical thinking</strong> skills</li>
+                                <li>Connect data insights with business decisions</li>
+                                <li>Question assumptions and validate findings</li>
+                                <li>Think strategically about business problems</li>
+                            </ul>
+                        </div>
+                    </div>
+
+                    <div class="mindset-section">
+                        <div class="mindset-card">
+                            <h3><i class="fas fa-lightbulb"></i> Analytical Mindset Development</h3>
+                            <p class="highlight-text">This case is not just about using software tools — it's about developing an <strong>analytical mindset</strong> that every modern accountant should have.</p>
+                            <div class="mindset-points">
+                                <div class="point">
+                                    <i class="fas fa-search"></i>
+                                    <span>Question everything with data</span>
+                                </div>
+                                <div class="point">
+                                    <i class="fas fa-puzzle-piece"></i>
+                                    <span>See patterns in complex datasets</span>
+                                </div>
+                                <div class="point">
+                                    <i class="fas fa-lightbulb"></i>
+                                    <span>Generate actionable insights</span>
+                                </div>
+                                <div class="point">
+                                    <i class="fas fa-comments"></i>
+                                    <span>Communicate findings effectively</span>
+                                </div>
+                            </div>
+                        </div>
+                    </div>
+                </div>
+            </div>
+        </section>
+
+        <!-- Section 7: Conclusion -->
+        <section id="conclusion" class="section">
+            <div class="container">
+                <h2 class="section-title">🟢 Conclusion</h2>
+                <div class="content-card">
+                    <div class="conclusion-content">
+                        <p class="lead-text">
+                            In conclusion, this paper emphasizes the importance of teaching <strong>analytical and digital skills</strong> in accounting education, as they have become essential in today's job market.
+                        </p>
+                        
+                        <div class="conclusion-grid">
+                            <div class="conclusion-point">
+                                <h3><i class="fas fa-graduation-cap"></i> Educational Impact</h3>
+                                <p>Through Dillard's Case, students gain <strong>practical experience in financial analysis</strong>, bridging the gap between theoretical knowledge and real-world application.</p>
+                            </div>
+                            
+                            <div class="conclusion-point">
+                                <h3><i class="fas fa-chart-line"></i> Business Value</h3>
+                                <p>Students learn how to <strong>translate numbers into actionable business decisions</strong>, making them valuable assets in data-driven organizations.</p>
+                            </div>
+                            
+                            <div class="conclusion-point">
+                                <h3><i class="fas fa-rocket"></i> Career Preparation</h3>
+                                <p>The case prepares students for the <strong>evolving accounting profession</strong> where technical skills and business acumen must work together.</p>
+                            </div>
+                        </div>
+
+                        <div class="future-skills">
+                            <h3><i class="fas fa-crystal-ball"></i> Skills for the Future</h3>
+                            <div class="skills-showcase">
+                                <div class="skill-item">
+                                    <div class="skill-icon"><i class="fas fa-database"></i></div>
+                                    <span>Data Extraction</span>
+                                </div>
+                                <div class="skill-item">
+                                    <div class="skill-icon"><i class="fas fa-chart-pie"></i></div>
+                                    <span>Visualization</span>
+                                </div>
+                                <div class="skill-item">
+                                    <div class="skill-icon"><i class="fas fa-brain"></i></div>
+                                    <span>Critical Analysis</span>
+                                </div>
+                                <div class="skill-item">
+                                    <div class="skill-icon"><i class="fas fa-presentation"></i></div>
+                                    <span>Communication</span>
+                                </div>
+                                <div class="skill-item">
+                                    <div class="skill-icon"><i class="fas fa-cogs"></i></div>
+                                    <span>Technical Proficiency</span>
+                                </div>
+                            </div>
+                        </div>
+
+                        <div class="final-message">
+                            <div class="message-box">
+                                <h3><i class="fas fa-star"></i> The Modern Accountant</h3>
+                                <p>This case study represents the evolution of accounting education, where students don't just learn to record transactions, but to <strong>extract insights, identify trends, and drive business strategy through data</strong>.</p>
+                            </div>
+                        </div>
+                    </div>
+                </div>
+            </div>
+        </section>
+
+        <!-- Additional Visualizations Gallery -->
+        <section class="visualizations-gallery section bg-light">
+            <div class="container">
+                <h2 class="section-title">📊 Complete Visualization Gallery</h2>
+                <div class="gallery-grid">
+                    <div class="gallery-item">
+                        <img src="page_18_img_1.png" alt="Sales Analysis Dashboard" class="gallery-image">
+                        <h4>Sales Analysis Dashboard</h4>
+                    </div>
+                    <div class="gallery-item">
+                        <img src="page_19_img_1.png" alt="Geographic Distribution" class="gallery-image">
+                        <h4>Geographic Distribution</h4>
+                    </div>
+                    <div class="gallery-item">
+                        <img src="page_20_img_1.png" alt="Trend Analysis" class="gallery-image">
+                        <h4>Seasonal Trend Analysis</h4>
+                    </div>
+                    <div class="gallery-item">
+                        <img src="page_21_img_1.png" alt="Performance Metrics" class="gallery-image">
+                        <h4>Performance Metrics</h4>
+                    </div>
+                    <div class="gallery-item">
+                        <img src="page_22_img_1.png" alt="Comparative Analysis" class="gallery-image">
+                        <h4>Comparative Analysis</h4>
+                    </div>
+                    <div class="gallery-item">
+                        <img src="page_23_img_1.png" alt="Brand Performance" class="gallery-image">
+                        <h4>Brand Performance</h4>
                     </div>
                 </div>
             </div>
@@ -207,16 +629,17 @@
         <div class="container">
             <div class="footer-content">
                 <div class="footer-section">
-                    <h4>Academic Context</h4>
+                    <h4>Academic Excellence</h4>
                     <p>This case study demonstrates the integration of STEM skills in accounting education, preparing students for modern data-driven business environments.</p>
                 </div>
                 <div class="footer-section">
-                    <h4>Technologies Used</h4>
+                    <h4>Technical Stack</h4>
                     <ul>
-                        <li>SQL for data extraction</li>
-                        <li>Tableau for visualization</li>
+                        <li>SQL Server for data extraction</li>
+                        <li>Tableau Desktop for visualization</li>
                         <li>Statistical analysis methods</li>
                         <li>Interactive dashboard development</li>
+                        <li>Executive presentation skills</li>
                     </ul>
                 </div>
                 <div class="footer-section">
@@ -225,16 +648,19 @@
                         <li>Data analytics mindset development</li>
                         <li>Technical skill application</li>
                         <li>Business insight generation</li>
-                        <li>Professional presentation skills</li>
+                        <li>Professional communication skills</li>
+                        <li>Critical thinking enhancement</li>
                     </ul>
                 </div>
             </div>
             <div class="footer-bottom">
-                <p>&copy; 2024 Data Analytics Case Study. Educational content for STEM accounting curriculum.</p>
+                <p>&copy; 2024 Dillard's Case Study. Educational content for STEM accounting curriculum development.</p>
             </div>
         </div>
     </footer>
 
+    <script src="https://cdnjs.cloudflare.com/ajax/libs/prism/1.29.0/components/prism-core.min.js"></script>
+    <script src="https://cdnjs.cloudflare.com/ajax/libs/prism/1.29.0/components/prism-sql.min.js"></script>
     <script src="script.js"></script>
 </body>
 </html>
